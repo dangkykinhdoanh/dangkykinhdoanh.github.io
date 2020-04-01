@@ -2,6 +2,18 @@
 permalink: /about/
 title: "Giới thiệu"
 excerpt: "Đăng ký kinh doanh - Wikilawfirm"
+layouts_gallery:
+  - url: /assets/images/mm-layout-splash.png
+    image_path: /assets/images/mm-layout-splash.png
+    alt: "splash layout example"
+  - url: /assets/images/mm-layout-single-meta.png
+    image_path: /assets/images/mm-layout-single-meta.png
+    alt: "single layout with comments and related posts"
+  - url: /assets/images/mm-layout-archive.png
+    image_path: /assets/images/mm-layout-archive.png
+    alt: "archive layout example"
+last_modified_at: 2020-04-01T14:20:47-04:00
+toc: true
 ---
 
 VIKI LAW  là đơn vị trực thuộc hãng luật HALF với đội ngũ chuyên viên nhiều kinh nghiệm, có uy tín, là một trong những Hãng luật hoạt động chuyên nghiệp trong lĩnh vực tư vấn về đầu tư; thương mại Quốc tế; doanh nghiệp; mua bán & sáp nhập (M&A); tài chính & ngân hàng; thị trường vốn; thuế; bất động sản; hợp đồng; năng lượng; viễn thông; xây dựng; hàng hải; sở hữu trí tuệ; giải quyết tranh chấp… và được công nhận là một trong những Hãng luật kinh doanh hàng đầu tại Việt Nam.…
