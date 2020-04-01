@@ -126,7 +126,7 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/VIKILawFirm/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
@@ -139,7 +139,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-
+    - label: "thue nha da nang"
+      icon: "fas fa-fw fa-link"
+      url: "https://luxa.vn/thue-nha-nguyen-can-da-nang.html"
 
 # Reading Files
 include:
