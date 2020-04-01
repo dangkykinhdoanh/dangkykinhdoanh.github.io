@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "vi-VN"
-title                    : "Thuê Nhà Đà Nẵng"
+title                    : "ĐĂNG KÝ KINH DOANH"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Thuê Nhà Đà Nẵng"
+name                     : "ĐĂNG KÝ KINH DOANH"
 description              : "Thuê Nhà Đà Nẵng"
 url                      : "https://dangkykinhdoanh.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -93,18 +93,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Thuê Nhà Đà Nẵng"
+  name             : "VIKILAWFIRM"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Thuê Nhà Đà Nẵng"
+  bio              : "Đăng ký kinh doanh tại Đà Nẵng, Tư vấn đăng ký kinh doanh, xin giấy phép con, thành lập doanh nghiệp"
   location         : "Đà Nẵng, Việt Nam"
-  email            :
+  email            : "vikilawfirm@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+       url: mailto:vikilawfirm@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+       url: "https://vikilawfirm.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
