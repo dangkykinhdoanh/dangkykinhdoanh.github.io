@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "Giới thiệu"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+excerpt: "Đăng ký kinh doanh - Wikilawfirm"
 ---
 
 VIKI LAW  là đơn vị trực thuộc hãng luật HALF với đội ngũ chuyên viên nhiều kinh nghiệm, có uy tín, là một trong những Hãng luật hoạt động chuyên nghiệp trong lĩnh vực tư vấn về đầu tư; thương mại Quốc tế; doanh nghiệp; mua bán & sáp nhập (M&A); tài chính & ngân hàng; thị trường vốn; thuế; bất động sản; hợp đồng; năng lượng; viễn thông; xây dựng; hàng hải; sở hữu trí tuệ; giải quyết tranh chấp… và được công nhận là một trong những Hãng luật kinh doanh hàng đầu tại Việt Nam.…
