@@ -101,7 +101,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:vikilawfirm@gmail.com"
+      # url: "mailto:vikilawfirm@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
        url: "https://vikilawfirm.com"
