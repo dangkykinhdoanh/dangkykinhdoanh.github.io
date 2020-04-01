@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "VIKILAWFIRM"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/vikilogo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Đăng ký kinh doanh tại Đà Nẵng, Tư vấn đăng ký kinh doanh, xin giấy phép con, thành lập doanh nghiệp"
   location         : "Đà Nẵng, Việt Nam"
   email            : "vikilawfirm@gmail.com"
@@ -110,7 +110,7 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+       url: "https://www.facebook.com/VIKILawFirm/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
