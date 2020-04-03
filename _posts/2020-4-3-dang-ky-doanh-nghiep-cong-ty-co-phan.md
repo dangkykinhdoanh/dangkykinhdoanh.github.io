@@ -1,10 +1,11 @@
 ---
-title: " Thủ tục thành lập công ty cổ phần"
+title: "Thủ tục thành lập công ty cổ phần"
 excerpt_separator: "<!--more-->"
 categories:
   - huongdan
 tags:
 	- congtycophan
+	- thanhlapmoi
 	- dangkykinhdoanh
 	- thanhlapdoanhnghiep
 	- giayphepkinhdoanh
