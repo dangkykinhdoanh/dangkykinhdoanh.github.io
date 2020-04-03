@@ -26,51 +26,52 @@ Công ty trách nhiệm hữu hạn một thành viên là doanh nghiệp do m�
 >Danh sách người đại diện theo ủy quyền: Theo mẫu quy định tại Phụ lục I-10 Thông tư số 02/2019/TT-BKHĐT.  
 
 4. Bản sao hợp lệ các giấy tờ sau đây:
-
 a. Một trong các giấy tờ chứng thực cá nhân quy định tại Điều 10 Nghị định số 78/2015/NĐ-CP của chủ sở hữu công ty đối với trường hợp chủ sở hữu công ty là cá nhân;
-
 b. Quyết định thành lập hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc giấy tờ tương đương khác, Điều lệ hoặc tài liệu tương đương khác của chủ sở hữu công ty đối với trường hợp chủ sở hữu công ty là tổ chức (trừ trường hợp chủ sở hữu công ty là Nhà nước);
-
 c. Giấy chứng nhận đăng ký đầu tư đối với trường hợp doanh nghiệp được thành lập bởi nhà đầu tư nước ngoài hoặc tổ chức kinh tế có vốn đầu tư nước ngoài theo quy định tại Luật Đầu tư và các văn bản hướng dẫn thi hành.
 
 5. Văn bản ủy quyền của chủ sở hữu cho người được ủy quyền đối với trường hợp chủ sở hữu công ty là tổ chức.
 
-Mẫu tờ khai [PL_I-2.docx](https://bit.ly/mau-to-khai-PL-I2)
+>Mẫu tờ khai [PL_I-2.docx](https://bit.ly/mau-to-khai-PL-I2)
 
-Mẫu tờ khai [PL_I-10.docx](https://bit.ly/mau-to-khai-PL-I10)
+>Mẫu tờ khai [PL_I-10.docx](https://bit.ly/mau-to-khai-PL-I10)
 
 ## Nộp hồ sơ
 
-**Cách thức thực hiện:** 
+### Cách thức thực hiện:
 
 Người thành lập doanh nghiệp hoặc người được ủy quyền thực hiện thủ tục đăng ký doanh nghiệp nộp hồ sơ đăng ký doanh nghiệp trực tiếp tại Phòng Đăng ký kinh doanh nơi doanh nghiệp đặt trụ sở chính hoặc Người đại diện theo pháp luật nộp hồ sơ đăng ký doanh nghiệp qua mạng điện tử theo quy trình trên Cổng thông tin quốc gia về đăng ký doanh nghiệp. 
 
-**Trình tự thực hiện:**
+### Trình tự thực hiện:
 
-+ Trường hợp đăng ký trực tiếp:
+**Trường hợp đăng ký trực tiếp:**
 
 Người thành lập doanh nghiệp hoặc người được ủy quyền thực hiện thủ tục đăng ký doanh nghiệp nộp hồ sơ đăng ký doanh nghiệp và thanh toán lệ phí tại Phòng Đăng ký kinh doanh nơi doanh nghiệp đặt trụ sở chính
 Khi nhận hồ sơ, Phòng Đăng ký kinh doanh trao Giấy biên nhận.
 
-+ Trường hợp đăng ký qua mạng điện tử sử dụng chữ ký số công cộng:
+**Trường hợp đăng ký qua mạng điện tử sử dụng chữ ký số công cộng:**
 
-Hồ sơ đăng ký doanh nghiệp qua mạng điện tử hợp lệ được quy định tại Điều 36 Nghị định số 78/2015/NĐ-CP và Khoản 3, Khoản 4 Điều 36 Nghị định số 108/2018/NĐ-CP ;
-Người đại diện theo pháp luật kê khai thông tin, tải văn bản điện tử, ký số vào hồ sơ đăng ký điện tử và thanh toán lệ phí qua mạng điện tử theo quy trình trên Cổng thông tin quốc gia về đăng ký doanh nghiệp.
+ Hồ sơ đăng ký doanh nghiệp qua mạng điện tử hợp lệ được quy định tại Điều 36 Nghị định số 78/2015/NĐ-CP và Khoản 3, Khoản 4 Điều 36 Nghị định số 108/2018/NĐ-CP ;
+ 
+ Người đại diện theo pháp luật kê khai thông tin, tải văn bản điện tử, ký số vào hồ sơ đăng ký điện tử và thanh toán lệ phí qua mạng điện tử theo quy trình trên Cổng thông tin quốc gia về đăng ký doanh nghiệp.
 Sau khi hoàn thành việc gửi hồ sơ đăng ký, người đại diện theo pháp luật sẽ nhận được Giấy biên nhận hồ sơ đăng ký doanh nghiệp qua mạng điện tử.
 
-+ Trường hợp đăng ký qua mạng điện tử sử dụng Tài khoản đăng ký kinh doanh:
-
+**Trường hợp đăng ký qua mạng điện tử sử dụng Tài khoản đăng ký kinh doanh:**
+	
 Hồ sơ đăng ký doanh nghiệp qua mạng điện tử hợp lệ được quy định tại Điều 36 Nghị định số 78/2015/NĐ-CP và Khoản 3, Khoản 4 Điều 36 Nghị định số 108/2018/NĐ-CP ;
+
 Người đại diện theo pháp luật kê khai thông tin, tải văn bản điện tử của các giấy tờ chứng thực cá nhân tại Cổng thông tin quốc gia về đăng ký doanh nghiệp để được cấp Tài khoản đăng ký kinh doanh.
+
 Người đại diện theo pháp luật sử dụng Tài khoản đăng ký kinh doanh để kê khai thông tin, tải văn bản điện tử và xác thực hồ sơ đăng ký doanh nghiệp qua mạng điện tử theo quy trình trên Cổng thông tin quốc gia về đăng ký doanh nghiệp.
+
 Sau khi hoàn thành việc gửi hồ sơ đăng ký, người thành lập doanh nghiệp sẽ nhận được Giấy biên nhận hồ sơ đăng ký doanh nghiệp qua mạng điện tử.
 
 **Thời hạn giải quyết:** Trong thời hạn 03 (ba) ngày làm việc, kể từ khi nhận đủ hồ sơ hợp lệ.
 
 **Lệ phí:**
 
-+ 100.000 đồng/lần đối với hồ sơ nộp trực tiếp tại Phòng Đăng ký kinh doanh (Nộp tại thời điểm nộp hồ sơ).
-+ Miễn lệ phí đối với hồ sơ đăng ký qua mạng điện tử
+- 100.000 đồng/lần đối với hồ sơ nộp trực tiếp tại Phòng Đăng ký kinh doanh (Nộp tại thời điểm nộp hồ sơ).
+- Miễn lệ phí đối với hồ sơ đăng ký qua mạng điện tử
 (Thông tư số 130/2017/TT-BTC)
 
 ## Nhận kết quả
@@ -98,6 +99,7 @@ Sau khi nhận được hồ sơ bằng bản giấy, Phòng Đăng ký kinh doa
 Nếu quá thời hạn 30 ngày, kể từ ngày gửi thông báo về việc cấp Giấy chứng nhận đăng ký doanh nghiệp mà Phòng Đăng ký kinh doanh không nhận được hồ sơ bằng bản giấy thì hồ sơ đăng ký điện tử của doanh nghiệp không còn hiệu lực.
 
 Người đại diện theo pháp luật chịu trách nhiệm về tính đầy đủ và chính xác của bộ hồ sơ nộp bằng bản giấy so với bộ hồ sơ được gửi qua mạng điện tử. Trường hợp bộ hồ sơ nộp bằng bản giấy không chính xác so với bộ hồ sơ được gửi qua mạng điện tử mà người nộp hồ sơ không thông báo với Phòng Đăng ký kinh doanh tại thời điểm nộp hồ sơ bằng bản giấy thì được coi là giả mạo hồ sơ và sẽ bị xử lý theo quy định tại Khoản 1 Điều 63 Nghị định số 108/2018/NĐ-CP.
+
 ## Sau đăng ký kinh doanh
 
 Sau khi được cấp Giấy chứng nhận đăng ký doanh nghiệp, để có thể chính thức hoạt động, doanh nghiệp cần thực hiện một số thủ tục sau:
@@ -135,6 +137,5 @@ Sau khi được cấp Giấy chứng nhận đăng ký doanh nghiệp, để c�
 - Nộp Báo cáo tài chính cho cơ quan đăng ký kinh doanh, cơ quan thuế, cơ quan thống kê trong thời hạn 90 ngày kể từ ngày kết thúc kỳ kết toán năm.
 
 - Doanh nghiệp phải lưu giữ các tài liệu của doanh nghiệp tại trụ sở chính của doanh nghiệp theo quy định tại Điều 12 Luật Doanh nghiệp.
-
-(Quy định tại Điều 9, Điều 28,  Luật Doanh nghiệp)
+- >Quy định tại Điều 9, Điều 28,  Luật Doanh nghiệp
 
