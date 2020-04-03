@@ -1,7 +1,7 @@
 ---
 title: "Thủ tục thành lập Công ty Trách Nhiệm Hữu Hạn"
 share: true
-excerpt_separator: "<!--more-->"
+excerpt_separator: "Thủ tục thành lập Công ty Trách Nhiệm Hữu Hạn Một Thành Viên, Công ty TNHH Hai Thành Viên. Hồ sơ, chi phí... "
 categories:
   - Blogs
 tags:
@@ -28,9 +28,9 @@ Công ty trách nhiệm hữu hạn một thành viên là doanh nghiệp do m�
 >Danh sách người đại diện theo ủy quyền: Theo mẫu quy định tại Phụ lục I-10 Thông tư số 02/2019/TT-BKHĐT.  
 
 4. Bản sao hợp lệ các giấy tờ sau đây:
-a. Một trong các giấy tờ chứng thực cá nhân quy định tại Điều 10 Nghị định số 78/2015/NĐ-CP của chủ sở hữu công ty đối với trường hợp chủ sở hữu công ty là cá nhân;
-b. Quyết định thành lập hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc giấy tờ tương đương khác, Điều lệ hoặc tài liệu tương đương khác của chủ sở hữu công ty đối với trường hợp chủ sở hữu công ty là tổ chức (trừ trường hợp chủ sở hữu công ty là Nhà nước);
-c. Giấy chứng nhận đăng ký đầu tư đối với trường hợp doanh nghiệp được thành lập bởi nhà đầu tư nước ngoài hoặc tổ chức kinh tế có vốn đầu tư nước ngoài theo quy định tại Luật Đầu tư và các văn bản hướng dẫn thi hành.
+	a. Một trong các giấy tờ chứng thực cá nhân quy định tại Điều 10 Nghị định số 78/2015/NĐ-CP của chủ sở hữu công ty đối với trường hợp chủ sở hữu công ty là cá nhân;
+	b. Quyết định thành lập hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc giấy tờ tương đương khác, Điều lệ hoặc tài liệu tương đương khác của chủ sở hữu công ty đối với trường hợp chủ sở hữu công ty là tổ chức (trừ trường hợp chủ sở hữu công ty là Nhà nước);
+	c. Giấy chứng nhận đăng ký đầu tư đối với trường hợp doanh nghiệp được thành lập bởi nhà đầu tư nước ngoài hoặc tổ chức kinh tế có vốn đầu tư nước ngoài theo quy định tại Luật Đầu tư và các văn bản hướng dẫn thi hành.
 
 5. Văn bản ủy quyền của chủ sở hữu cho người được ủy quyền đối với trường hợp chủ sở hữu công ty là tổ chức.
 

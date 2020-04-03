@@ -1,7 +1,7 @@
 ---
 title: "Thủ tục thành lập công ty cổ phần"
 share: true
-excerpt_separator: "<!--more-->"
+excerpt_separator: "Thủ tục thành lập Công ty Cổ Phần, Hồ sơ gồm gì? Chi phí bao nhiêu? quy trình đăng ký..."
 categories:
   - Blogs
 tags:
