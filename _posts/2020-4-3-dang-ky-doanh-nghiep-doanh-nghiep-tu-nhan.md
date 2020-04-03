@@ -1,5 +1,5 @@
 ---
-title:"Thủ tục thành lập Doanh nghiệp tư nhân"
+title: "Thủ tục thành lập Doanh nghiệp tư nhân"
 excerpt_separator: "<!--more-->"
 categories:
   - Blogs
