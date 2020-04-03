@@ -2,6 +2,7 @@
 layout: single
 permalink: /terms/
 title: "Chính sách bảo mật"
+published: true
 comments: false
 toc: true
 ---
