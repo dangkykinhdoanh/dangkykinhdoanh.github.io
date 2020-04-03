@@ -2,11 +2,10 @@
 title: "Thủ tục thành lập công ty Cổ phần"
 preview: "Hướng dẫn đăng ký thành lập mới công ty cổ phần, thủ tục, mẫu tờ khai, lệ phí thành lập công ty cổ phần." 
 permalink: "/blog/thu-tuc-thanh-lap-moi-cong-ty-co-phan" 
-layout: posts 
+layout: post
 
 categories: 
-    - thutuc
-    - thanhlapmoi
+    - blog
 tags:
 	- congtycophan
 ---
