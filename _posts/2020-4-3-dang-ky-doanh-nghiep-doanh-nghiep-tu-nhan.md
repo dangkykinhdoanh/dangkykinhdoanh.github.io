@@ -34,7 +34,7 @@ Cách thức thực hiện: Người thành lập doanh nghiệp hoặc người
 **Trình tự thực hiện:**
 
 Khi đăng ký hoạt động chi nhánh, doanh nghiệp phải gửi Thông báo lập chi nhánh đến Phòng Đăng ký kinh doanh nơi đặt chi nhánh. Kèm theo Thông báo phải có các văn bản được nêu tại thành phần hồ sơ.
-Trường hợp doanh nghiệp lập chi nhánh ở nước ngoài thì thực hiện theo quy định của pháp luật nước đó. Trong thời hạn 30 ngày làm việc, kể từ ngày chính thức mở chi nhánh ở nước ngoài, doanh nghiệp phải gửi Thông báo về việc lập chi nhánh ở nước ngoài đến Phòng Đăng ký kinh doanh nơi doanh nghiệp đã đăng ký (Phụ lục II-12, Thông tư số 02/2019/TT-BKHĐT). Kèm theo Thông báo phải có bản sao hợp lệ Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện hoặc giấy tờ tương đương để bổ sung thông tin về chi nhánh, văn phòng đại diện của doanh nghiệp trong Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp..
+Trường hợp doanh nghiệp lập chi nhánh ở nước ngoài thì thực hiện theo quy định của pháp luật nước đó. Trong thời hạn 30 ngày làm việc, kể từ ngày chính thức mở chi nhánh ở nước ngoài, doanh nghiệp phải gửi Thông báo về việc lập chi nhánh ở nước ngoài đến Phòng Đăng ký kinh doanh nơi doanh nghiệp đã đăng ký (Phụ lục II-12, Thông tư số 02/2019/TT-BKHĐT). Kèm theo Thông báo phải có bản sao hợp lệ Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện hoặc giấy tờ tương đương để bổ sung thông tin về chi nhánh, văn phòng đại diện của doanh nghiệp trong Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp.
 
 **Cách thức thực hiện:**
 
