@@ -1,13 +1,13 @@
 ---
 title:"Thủ tục thành lập Doanh nghiệp tư nhân"
 categories:
-	- huongdan
+  - huongdan
 tags:
-	- doanhnghieptunhan
-	- thanhlapmoi
-	- dangkykinhdoanh
-	- thanhlapdoanhnghiep
-	- giayphepkinhdoanh
+  - doanhnghieptunhan
+  - thanhlapmoi
+  - dangkykinhdoanh
+  - thanhlapdoanhnghiep
+  - giayphepkinhdoanh
 toc: true
 ---
 
@@ -27,7 +27,7 @@ toc: true
 + Miễn lệ phí đối với hồ sơ đăng ký qua mạng điện tử
 (Thông tư số 130/2017/TT-BTC)
 
-Mẫu tờ khai [PhụlụcI-1.docx](https://bit.ly/mau-to-khai-phu-luc-I1) 
+Mẫu tờ khai [PhụlụcI-1.docx](https://bit.ly/mau-to-khai-phu-luc-I1)
 
 ## Nộp hồ sơ
 
