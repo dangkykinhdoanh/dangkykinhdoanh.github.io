@@ -1,5 +1,6 @@
 ---
 title: "Thủ tục thành lập công ty cổ phần"
+share: true
 excerpt_separator: "<!--more-->"
 categories:
   - Blogs
