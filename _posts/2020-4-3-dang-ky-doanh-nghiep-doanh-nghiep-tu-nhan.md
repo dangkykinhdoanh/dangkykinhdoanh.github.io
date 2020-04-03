@@ -27,7 +27,7 @@ toc: true
 + Miễn lệ phí đối với hồ sơ đăng ký qua mạng điện tử
 (Thông tư số 130/2017/TT-BTC)
 
-Mẫu tờ khai [PhụlụcI-1.docx] (https://bit.ly/mau-to-khai-phu-luc-I1) 
+Mẫu tờ khai [PhụlụcI-1.docx](https://bit.ly/mau-to-khai-phu-luc-I1) 
 
 ## Nộp hồ sơ
 
@@ -67,6 +67,7 @@ Trường hợp hồ sơ chưa hợp lệ, Phòng Đăng ký kinh doanh gửi th
 **Trường hợp đăng ký qua mạng điện tử sử dụng Tài khoản đăng ký kinh doanh:**
 
 Phòng Đăng ký kinh doanh có trách nhiệm xem xét, gửi thông báo qua mạng điện tử cho doanh nghiệp để yêu cầu sửa đổi, bổ sung hồ sơ trong trường hợp hồ sơ chưa hợp lệ. Khi hồ sơ đã đủ điều kiện cấp Giấy chứng nhận đăng ký doanh nghiệp, Phòng Đăng ký kinh doanh gửi thông tin sang cơ quan thuế để tạo mã số doanh nghiệp. Sau khi nhận được mã số doanh nghiệp từ cơ quan thuế, Phòng Đăng ký kinh doanh thông báo qua mạng điện tử cho doanh nghiệp về việc cấp Giấy chứng nhận đăng ký doanh nghiệp.
+
 Sau khi nhận được thông báo về việc cấp Giấy chứng nhận đăng ký doanh nghiệp, người đại diện theo pháp luật nộp một bộ hồ sơ đăng ký doanh nghiệp bằng bản giấy kèm theo Giấy biên nhận hồ sơ đăng ký doanh nghiệp qua mạng điện tử đến Phòng Đăng ký kinh doanh. Người đại diện theo pháp luật có thể nộp trực tiếp hồ sơ đăng ký doanh nghiệp bằng bản giấy và Giấy biên nhận hồ sơ đăng ký doanh nghiệp qua mạng điện tử tại Phòng Đăng ký kinh doanh hoặc nộp qua đường bưu điện.
 Sau khi nhận được hồ sơ bằng bản giấy, Phòng Đăng ký kinh doanh đối chiếu đầu mục hồ sơ với đầu mục hồ sơ doanh nghiệp đã gửi qua mạng điện tử và trao Giấy chứng nhận đăng ký doanh nghiệp cho doanh nghiệp nếu nội dung đối chiếu thống nhất.
 Nếu quá thời hạn 30 ngày, kể từ ngày gửi thông báo về việc cấp Giấy chứng nhận đăng ký doanh nghiệp mà Phòng Đăng ký kinh doanh không nhận được hồ sơ bằng bản giấy thì hồ sơ đăng ký điện tử của doanh nghiệp không còn hiệu lực.
