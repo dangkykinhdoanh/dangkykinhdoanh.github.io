@@ -1,6 +1,6 @@
 ---
+
 title: "Thủ tục thành lập công ty cổ phần"
-excerpt_separator: "<!--more-->"
 categories:
   - huongdan
 tags:
@@ -13,6 +13,7 @@ tags:
 
 
 Công ty cổ phần là loại hình doanh nghiệp phổ biến nhất hiện nay xuất phát chính từ nhu cầu khách quan phát triển kinh tế – xã hội cần có sự liên kết vốn, đây là doanh nghiệp duy nhất có quyền phát hành cổ phiếu và được tham gia huy động vốn trên thị trường chứng khoán. Đồng thời về mặt chủ quan, các nhà đầu tư muốn chia sẻ những gánh nặng rủi ro trong kinh doanh và tìm kiếm lợi nhuận cao hơn nên loại hình này sẽ là lựa chọn của nhiều nhà đầu tư. Nếu bạn đang có ý định thành lập công ty cổ phần nhưng lại lúng túng trong các bước làm hồ sơ thì hãy tham khảo những thủ tục thành lập công ty cổ phần của **VIKILAW** sau đây.
+
 ## Nộp hồ sơ
 
 Cách thức thực hiện: Người thành lập doanh nghiệp hoặc người được ủy quyền thực hiện thủ tục đăng ký doanh nghiệp nộp hồ sơ đăng ký doanh nghiệp trực tiếp tại Phòng Đăng ký kinh doanh nơi doanh nghiệp đặt trụ sở chính hoặc Người đại diện theo pháp luật nộp hồ sơ đăng ký doanh nghiệp qua mạng điện tử theo quy trình trên Cổng thông tin quốc gia về đăng ký doanh nghiệp. 
@@ -67,6 +68,7 @@ Thời hạn giải quyết: Trong thời hạn 03 (ba) ngày làm việc, kể 
 [Mẫu tờ khai PLI-7.docx](https://dangkykinhdoanh.gov.vn/Images/FileVanBan/_pli-7.docx)
 [Mẫu tờ khai PLI-8.docx](https://dangkykinhdoanh.gov.vn/Images/FileVanBan/_pli-8.docx)
 [Mẫu tờ khai PLI-10.docx](https://dangkykinhdoanh.gov.vn/Images/FileVanBan/_pli-10.docx)
+
 ## Nhận kết quả
 
 **Trường hợp đăng ký trực tiếp:**
@@ -86,6 +88,7 @@ Sau khi nhận được thông báo về việc cấp Giấy chứng nhận đă
 Sau khi nhận được hồ sơ bằng bản giấy, Phòng Đăng ký kinh doanh đối chiếu đầu mục hồ sơ với đầu mục hồ sơ doanh nghiệp đã gửi qua mạng điện tử và trao Giấy chứng nhận đăng ký doanh nghiệp cho doanh nghiệp nếu nội dung đối chiếu thống nhất.
 Nếu quá thời hạn 30 ngày, kể từ ngày gửi thông báo về việc cấp Giấy chứng nhận đăng ký doanh nghiệp mà Phòng Đăng ký kinh doanh không nhận được hồ sơ bằng bản giấy thì hồ sơ đăng ký điện tử của doanh nghiệp không còn hiệu lực.
 Người đại diện theo pháp luật chịu trách nhiệm về tính đầy đủ và chính xác của bộ hồ sơ nộp bằng bản giấy so với bộ hồ sơ được gửi qua mạng điện tử. Trường hợp bộ hồ sơ nộp bằng bản giấy không chính xác so với bộ hồ sơ được gửi qua mạng điện tử mà người nộp hồ sơ không thông báo với Phòng Đăng ký kinh doanh tại thời điểm nộp hồ sơ bằng bản giấy thì được coi là giả mạo hồ sơ và sẽ bị xử lý theo quy định tại Khoản 1 Điều 63 Nghị định số 108/2015/NĐ-CP.
+
 ## Sau đăng ký kinh doanh
 
 Sau khi được cấp Giấy chứng nhận đăng ký doanh nghiệp, để có thể chính thức hoạt động, doanh nghiệp cần thực hiện một số thủ tục sau:
