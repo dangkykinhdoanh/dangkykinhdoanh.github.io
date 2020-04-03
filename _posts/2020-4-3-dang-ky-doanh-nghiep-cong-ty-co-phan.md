@@ -1,4 +1,5 @@
 ---
+layout: single
 title: " Thủ tục thành lập công ty Cổ phần"
 excerpt_separator: "<!--more-->"
 categories:
