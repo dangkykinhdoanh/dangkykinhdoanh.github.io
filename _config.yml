@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "vi-VN"
-title                    : "ĐĂNG KÝ KINH DOANH"
-title_separator          : "Đăng ký kinh doanh tại Đà Nẵng, Thành lập doanh nghiệp, xin giấy phép con tại Đà Năng"
+title                    : "ĐĂNG KÝ KINH DOANH - THÀNH LẬP DOANH NGHIỆP"
+title_separator          : "Hướng dẫn Đăng ký kinh doanh tại Đà Nẵng, Thành lập doanh nghiệp, xin giấy phép con tại Đà Năng"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "ĐĂNG KÝ KINH DOANH"
-description              : "Đăng ký kinh doanh tại Đà Nẵng"
+name                     : "THỦ TỤC ĐĂNG KÝ KINH DOANH, THÀNH LẬP DOANH NGHIỆP"
+description              : "Hướng dẫn thủ tục Đăng ký kinh doanh tại Đà Nẵng, Thành lập Doanh nghiệp tại Đà Nẵng"
 url                      : "https://luatdangkykinhdoanh.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "dangkykinhdoanh/dangkykinhdoanh.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
