@@ -1,6 +1,8 @@
 ---
+layout: single
 permalink: /terms/
 title: "Chính sách bảo mật"
+comments: false
 toc: true
 ---
 
