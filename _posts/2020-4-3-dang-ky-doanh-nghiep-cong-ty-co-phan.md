@@ -4,7 +4,7 @@ title: " Thủ tục thành lập công ty Cổ phần"
 excerpt_separator: "<!--more-->"
 categories:
   - thutuc
-  - - thanhlapmoi
+  - thanhlapmoi
 tags:
   - congtycophan
 
@@ -40,7 +40,7 @@ Thời hạn giải quyết: Trong thời hạn 03 (ba) ngày làm việc, kể 
 
 ## Chuẩn bị hồ sơ
 
-**Thành phần hồ sơ, bao gồm: **
+**Thành phần hồ sơ, bao gồm:**
 
 1. Giấy đề nghị đăng ký doanh nghiệp theo mẫu quy định tại Phụ lục I-4 Thông tư số 02/2019/TT-BKHĐT;
 
@@ -72,10 +72,12 @@ Thời hạn giải quyết: Trong thời hạn 03 (ba) ngày làm việc, kể 
 
 Trường hợp nhận đủ hồ sơ hợp lệ, Phòng Đăng ký kinh doanh cấp Giấy chứng nhận đăng ký doanh nghiệp trong thời hạn 03 (ba) ngày làm việc.
 Nếu từ chối cấp Giấy chứng nhận đăng ký doanh nghiệp thì Phòng Đăng ký kinh doanh sẽ thông báo cho người thành lập doanh nghiệp biết bằng văn bản trong thời hạn 03 (ba) ngày làm việc.
+
 **Trường hợp đăng ký qua mạng điện tử sử dụng chữ ký số công cộng:**
 
 Trường hợp hồ sơ đủ điều kiện cấp Giấy chứng nhận đăng ký doanh nghiệp, Phòng Đăng ký kinh doanh gửi thông tin sang cơ quan thuế để tự động tạo mã số doanh nghiệp. Sau khi nhận được mã số doanh nghiệp từ cơ quan thuế, Phòng Đăng ký kinh doanh cấp Giấy chứng nhận đăng ký doanh nghiệp và thông báo cho doanh nghiệp về việc cấp Giấy chứng nhận đăng ký doanh nghiệp.
 Trường hợp hồ sơ chưa hợp lệ, Phòng Đăng ký kinh doanh gửi thông báo qua mạng điện tử cho doanh nghiệp để yêu cầu sửa đổi, bổ sung hồ sơ.
+
 **Trường hợp đăng ký qua mạng điện tử sử dụng Tài khoản đăng ký kinh doanh:**
 
 Phòng Đăng ký kinh doanh có trách nhiệm xem xét, gửi thông báo qua mạng điện tử cho doanh nghiệp để yêu cầu sửa đổi, bổ sung hồ sơ trong trường hợp hồ sơ chưa hợp lệ. Khi hồ sơ đã đủ điều kiện cấp Giấy chứng nhận đăng ký doanh nghiệp, Phòng Đăng ký kinh doanh gửi thông tin sang cơ quan thuế để tạo mã số doanh nghiệp. Sau khi nhận được mã số doanh nghiệp từ cơ quan thuế, Phòng Đăng ký kinh doanh thông báo qua mạng điện tử cho doanh nghiệp về việc cấp Giấy chứng nhận đăng ký doanh nghiệp.
