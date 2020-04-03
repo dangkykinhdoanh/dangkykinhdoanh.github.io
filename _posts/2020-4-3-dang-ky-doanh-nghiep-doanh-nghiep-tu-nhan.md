@@ -11,8 +11,6 @@ tags:
   - giayphepkinhdoanh
 ---
 
-
-
 ## Chuẩn bị hồ sơ
 
 **Thành phần hồ sơ, bao gồm:**
@@ -27,7 +25,7 @@ tags:
 + Miễn lệ phí đối với hồ sơ đăng ký qua mạng điện tử
 (Thông tư số 130/2017/TT-BTC)
 
-Mẫu tờ khai [PhụlụcI-1.docx](https://bit.ly/mau-to-khai-phu-luc-I1)
+>Mẫu tờ khai [PhụlụcI-1.docx](https://bit.ly/mau-to-khai-phu-luc-I1)
 
 ## Nộp hồ sơ
 
@@ -50,7 +48,7 @@ Người đại diện theo pháp luật gửi trực tiếp Thông báo về vi
 + Miễn lệ phí đối với hồ sơ đăng ký qua mạng điện tử
 (Thông tư số 130/2017/TT-BTC)
 
-Mẫu tờ khai [PhụlụcII-12.docx](https://bit.ly/mau-to-khai-phu-luc-II12)
+>Mẫu tờ khai [PhụlụcII-12.docx](https://bit.ly/mau-to-khai-phu-luc-II12)
 
 ## Nhận kết quả
 
