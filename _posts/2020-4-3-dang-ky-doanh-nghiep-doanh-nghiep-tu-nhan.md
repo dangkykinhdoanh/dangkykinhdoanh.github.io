@@ -1,5 +1,5 @@
 ---
-title: " tục thành lập Doanh Nghiệp Tư Nhân"
+title: "Thủ tục thành lập Doanh Nghiệp Tư Nhân"
 excerpt_separator: "Thủ tục thành lập Doanh Nghiệp Tư Nhân gồm những gì? hồ sơ, chi phí, địa điểm đăng ký..."
 categories:
   - Blogs
