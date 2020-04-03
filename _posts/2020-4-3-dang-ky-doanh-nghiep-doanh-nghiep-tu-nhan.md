@@ -9,6 +9,7 @@ tags:
   - dangkykinhdoanh
   - thanhlapdoanhnghiep
   - giayphepkinhdoanh
+toc: true
 ---
 
 Nói một cách ngắn gọn nhất, doanh nghiệp tư nhân cũng giống như các loại hình doanh nghiệp khác, có các đặc điểm chung của một doanh nghiệp như: có tên riêng, có tài sản, có trụ sở giao dịch ổn định, được đăng kí kinh doanh theo quy định của pháp luật nhằm thực hiện các hoạt động kinh doanh. Nếu bạn đang có ý định thành lập công ty cổ phần nhưng lại lúng túng trong các bước làm hồ sơ thì hãy tham khảo những thủ tục thành lập doanh nghiệp tư nhân của **VIKILAW** sau đây.
