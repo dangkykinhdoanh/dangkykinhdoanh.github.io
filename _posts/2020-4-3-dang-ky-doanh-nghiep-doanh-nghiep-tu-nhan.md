@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: "Thủ tục thành lập Doanh nghiệp tư nhân"
 categories:
 	- huongdan
