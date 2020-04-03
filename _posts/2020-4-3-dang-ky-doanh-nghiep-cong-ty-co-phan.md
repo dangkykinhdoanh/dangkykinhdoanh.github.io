@@ -25,17 +25,17 @@ Cách thức thực hiện: Người thành lập doanh nghiệp hoặc người
 
 + Trường hợp đăng ký trực tiếp:
 
-	Người thành lập doanh nghiệp hoặc người được ủy quyền thực hiện thủ tục đăng ký doanh nghiệp nộp hồ sơ đăng ký doanh nghiệp và thanh toán lệ phí tại Phòng Đăng ký kinh doanh nơi doanh nghiệp đặt trụ sở chính
-Khi nhận hồ sơ, Phòng Đăng ký kinh doanh trao Giấy biên nhận.
+	- Người thành lập doanh nghiệp hoặc người được ủy quyền thực hiện thủ tục đăng ký doanh nghiệp nộp hồ sơ đăng ký doanh nghiệp và thanh toán lệ phí tại Phòng Đăng ký kinh doanh nơi doanh nghiệp đặt trụ sở chính
+	- Khi nhận hồ sơ, Phòng Đăng ký kinh doanh trao Giấy biên nhận.
 + Trường hợp đăng ký qua mạng điện tử sử dụng chữ ký số công cộng:
 
-	 Hồ sơ đăng ký doanh nghiệp qua mạng điện tử hợp lệ được quy định tại Điều 36 Nghị định số 78/2015/NĐ-CP  và Khoản 3, Khoản 4 Điều 36 Nghị định số 108/2018/NĐ-CP;
-Trình tự, thủ tục đăng ký doanh nghiệp qua mạng điện tử sử dụng chữ ký số công cộng được quy định tại điều 37 Nghị định số 108/2018/NĐ-CP.
+		 Hồ sơ đăng ký doanh nghiệp qua mạng điện tử hợp lệ được quy định tại Điều 36 Nghị định số 78/2015/NĐ-CP  và Khoản 3, Khoản 4 Điều 36 Nghị định số 108/2018/NĐ-CP;
+	- Trình tự, thủ tục đăng ký doanh nghiệp qua mạng điện tử sử dụng chữ ký số công cộng được quy định tại điều 37 Nghị định số 108/2018/NĐ-CP.
 + Trường hợp đăng ký qua mạng điện tử sử dụng Tài khoản đăng ký kinh doanh:
 
-	Hồ sơ đăng ký doanh nghiệp qua mạng điện tử hợp lệ được quy định tại Điều 36 Nghị định số 78/2015/NĐ-CP và Khoản 3, Khoản 4 Điều 36 Nghị định số 108/2018/NĐ-CP;
-Trình tự, thủ tục đăng ký doanh nghiệp sử dụng Tài Khoản đăng ký kinh doanh được quy định tại điều 38 Nghị định số 108/2018/NĐ-CP.
-Thời hạn giải quyết: Trong thời hạn 03 (ba) ngày làm việc, kể từ khi nhận đủ hồ sơ hợp lệ.
+		Hồ sơ đăng ký doanh nghiệp qua mạng điện tử hợp lệ được quy định tại Điều 36 Nghị định số 78/2015/NĐ-CP và Khoản 3, Khoản 4 Điều 36 Nghị định số 108/2018/NĐ-CP;
+	 - Trình tự, thủ tục đăng ký doanh nghiệp sử dụng Tài Khoản đăng ký kinh doanh được quy định tại điều 38 Nghị định số 108/2018/NĐ-CP.
+	 - Thời hạn giải quyết: Trong thời hạn 03 (ba) ngày làm việc, kể từ khi nhận đủ hồ sơ hợp lệ.
 
 **Lệ phí:**
 
@@ -53,11 +53,11 @@ Thời hạn giải quyết: Trong thời hạn 03 (ba) ngày làm việc, kể 
 
 3. Danh sách cổ đông sáng lập và cổ đông là nhà đầu tư nước ngoài. Danh sách người đại diện theo ủy quyền đối với cổ đông nước ngoài là tổ chức
 
-	Danh sách cổ đông sáng lập công ty cổ phần lập theo mẫu quy định tại Phụ lục I-7 Thông tư số 02/2019/TT-BKHĐT;
+	- Danh sách cổ đông sáng lập công ty cổ phần lập theo mẫu quy định tại Phụ lục I-7 Thông tư số 02/2019/TT-BKHĐT;
 
-	Danh sách cổ đông là nhà đầu tư nước ngoài theo mẫu quy định tại Phụ lục I-8 Thông tư số 02/2019/TT-BKHĐT;
+	- Danh sách cổ đông là nhà đầu tư nước ngoài theo mẫu quy định tại Phụ lục I-8 Thông tư số 02/2019/TT-BKHĐT;
 
-	Danh sách người đại diện theo ủy quyền (của cổ đông là tổ chức nước ngoài) theo mẫu quy định tại Phụ lục I-10 Thông tư số 02/2019/TT-BKHĐT.
+	- Danh sách người đại diện theo ủy quyền (của cổ đông là tổ chức nước ngoài) theo mẫu quy định tại Phụ lục I-10 Thông tư số 02/2019/TT-BKHĐT.
 
 4. Bản sao hợp lệ các giấy tờ sau đây:
 
