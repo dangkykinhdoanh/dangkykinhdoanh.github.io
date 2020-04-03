@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "vi-VN"
 title                    : "ĐĂNG KÝ KINH DOANH"
-title_separator          : " Đăng ký kinh doanh tại Đà Nẵng, Thành lập doanh nghiệp, xin giấy phép con tại Đà Năng"
+title_separator          : "Đăng ký kinh doanh tại Đà Nẵng, Thành lập doanh nghiệp, xin giấy phép con tại Đà Năng"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "ĐĂNG KÝ KINH DOANH"
-description              : "Thuê Nhà Đà Nẵng"
+description              : "Đăng ký kinh doanh tại Đà Nẵng"
 url                      : "https://dangkykinhdoanh.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "dangkykinhdoanh/dangkykinhdoanh.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -30,15 +30,15 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : #"disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : "dangkykinhdoanhdanang" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : #"dangkykinhdoanhdanang" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
+    appid                : "578749556019505"
+    num_posts            : 5 # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
     theme                : # "github-light" (default), "github-dark"
