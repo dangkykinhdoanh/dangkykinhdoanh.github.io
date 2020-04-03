@@ -1,11 +1,11 @@
 ---
-title: "Thủ tục thành lập công ty trách nhiệm hữu hạn một thành viên"
+title: "Thủ tục thành lập Công ty Trách Nhiệm Hữu Hạn"
 share: true
 excerpt_separator: "<!--more-->"
 categories:
   - Blogs
 tags:
-  - congtytnhhmotthanhvien
+  - congtytnhh
 toc: true
 toc_label: "Mục Lục"
 toc_icon: "file-alt"
@@ -14,6 +14,8 @@ toc_icon: "file-alt"
 Công ty trách nhiệm hữu hạn một thành viên là doanh nghiệp do một tổ chức hoặc một cá nhân làm chủ sở hữu; chủ sở hữu công ty chịu trách nhiệm về các khoản nợ và nghĩa vụ tài sản khác của công ty trong phạm vi số vốn điều lệ của công ty. Nếu bạn đang có ý định thành lập Công ty TNHH Một Thành Viên nhưng lại lúng túng trong các bước làm hồ sơ thì hãy tham khảo những thủ tục thành lập Công ty TNHH MTV của **VIKILAW** sau đây.
 
 ## Chuẩn bị hồ sơ
+
+### Hồ sơ Công ty TNHH Một Thành Viên
 
 **Thành phần hồ sơ, bao gồm:**
 
@@ -35,6 +37,28 @@ c. Giấy chứng nhận đăng ký đầu tư đối với trường hợp doan
 >Mẫu tờ khai [PL_I-2.docx](https://bit.ly/mau-to-khai-PL-I2)
 
 >Mẫu tờ khai [PL_I-10.docx](https://bit.ly/mau-to-khai-PL-I10)
+
+### Hồ sơ Công ty TNHH Hai Thành Viên Trở Lên
+
+**Thành phần hồ sơ, bao gồm:**
+
+1. Giấy đề nghị đăng ký doanh nghiệp theo mẫu quy định tại Phụ lục I-3 Thông tư số 02/2019/TT-BKHĐT;
+
+2. Điều lệ công ty (có họ, tên và chữ ký của thành viên là cá nhân và người đại diện theo pháp luật hoặc người đại diện theo ủy quyền của thành viên là tổ chức);
+
+3. Danh sách thành viên theo mẫu quy định tại Phụ lục I-6 Thông tư số 02/2019/TT-BKHĐT;
+
+4. Bản sao hợp lệ các giấy tờ sau đây:
+
+a. Một trong các giấy tờ chứng thực cá nhân quy định tại Điều 10 Nghị định số 78/2015/NĐ-CP đối với trường hợp người thành lập doanh nghiệp là cá nhân;
+
+b. Quyết định thành lập hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc giấy tờ tương đương khác, một trong các giấy tờ chứng thực cá nhân quy định tại Điều 10 Nghị định số 78/2015/NĐ-CP của người đại diện theo ủy quyền và văn bản ủy quyền tương ứng đối với trường hợp người thành lập doanh nghiệp là tổ chức;
+
+c. Giấy chứng nhận đăng ký đầu tư đối với trường hợp doanh nghiệp được thành lập hoặc tham gia thành lập bởi nhà đầu tư nước ngoài hoặc tổ chức kinh tế có vốn đầu tư nước ngoài theo quy định tại Luật Đầu tư và các văn bản hướng dẫn thi hành.
+
+>Mẫu tờ khai [PL_I-3.docx](https://bit.ly/mau-to-khai-PL-I3)
+
+>Mẫu tờ khai [PL_I-6.docx](https://bit.ly/mau-to-khai-PL-I6)
 
 ## Nộp hồ sơ
 
