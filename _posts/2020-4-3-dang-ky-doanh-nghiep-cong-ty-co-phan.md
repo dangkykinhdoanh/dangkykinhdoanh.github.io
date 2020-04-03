@@ -4,11 +4,11 @@ excerpt_separator: "<!--more-->"
 categories:
   - huongdan
 tags:
-	- congtycophan
-	- thanhlapmoi
-	- dangkykinhdoanh
-	- thanhlapdoanhnghiep
-	- giayphepkinhdoanh
+  - congtycophan
+  - thanhlapmoi
+  - dangkykinhdoanh
+  - thanhlapdoanhnghiep
+  - giayphepkinhdoanh
 ---
 
 
@@ -64,10 +64,10 @@ Thời hạn giải quyết: Trong thời hạn 03 (ba) ngày làm việc, kể 
 
 	c. Giấy chứng nhận đăng ký đầu tư đối với trường hợp doanh nghiệp được thành lập hoặc tham gia thành lập bởi nhà đầu tư nước ngoài hoặc tổ chức kinh tế có vốn đầu tư nước ngoài theo quy định tại Luật Đầu tư và các văn bản hướng dẫn thi hành.
 
-[Mẫu tờ khai PLI-4.docx](https://dangkykinhdoanh.gov.vn/Images/FileVanBan/_pli-4.docx)
-[Mẫu tờ khai PLI-7.docx](https://dangkykinhdoanh.gov.vn/Images/FileVanBan/_pli-7.docx)
-[Mẫu tờ khai PLI-8.docx](https://dangkykinhdoanh.gov.vn/Images/FileVanBan/_pli-8.docx)
-[Mẫu tờ khai PLI-10.docx](https://dangkykinhdoanh.gov.vn/Images/FileVanBan/_pli-10.docx)
+[Mẫu tờ khai PLI-4.docx](https://bit.ly/mau-to-khai-PLI-4)
+[Mẫu tờ khai PLI-7.docx](https://bit.ly/mau-to-khai-PLI-7)
+[Mẫu tờ khai PLI-8.docx](https://bit.ly/mau-to-khai-PLI-8)
+[Mẫu tờ khai PLI-10.docx](https://bit.ly/mau-to-khai-PLI-10)
 
 ## Nhận kết quả
 
