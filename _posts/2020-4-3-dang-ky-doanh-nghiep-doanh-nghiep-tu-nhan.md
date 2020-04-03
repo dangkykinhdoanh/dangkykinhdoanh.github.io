@@ -1,5 +1,5 @@
 ---
-title: "Thủ tục thành lập Doanh nghiệp tư nhân"
+title:"Thủ tục thành lập Doanh nghiệp tư nhân"
 categories:
 	- huongdan
 tags:
@@ -8,6 +8,7 @@ tags:
 	- dangkykinhdoanh
 	- thanhlapdoanhnghiep
 	- giayphepkinhdoanh
+toc: true
 ---
 
 
