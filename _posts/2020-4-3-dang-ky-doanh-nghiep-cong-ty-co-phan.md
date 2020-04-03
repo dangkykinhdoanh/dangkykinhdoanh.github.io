@@ -9,7 +9,7 @@ tags:
   - congtycophan
 
 ---
-# Thủ tục thành lập công ty cổ phần
+# Thủ tục thành lập mới công ty cổ phần
 
 Công ty cổ phần là loại hình doanh nghiệp phổ biến nhất hiện nay xuất phát chính từ nhu cầu khách quan phát triển kinh tế – xã hội cần có sự liên kết vốn, đây là doanh nghiệp duy nhất có quyền phát hành cổ phiếu và được tham gia huy động vốn trên thị trường chứng khoán. Đồng thời về mặt chủ quan, các nhà đầu tư muốn chia sẻ những gánh nặng rủi ro trong kinh doanh và tìm kiếm lợi nhuận cao hơn nên loại hình này sẽ là lựa chọn của nhiều nhà đầu tư. Nếu bạn đang có ý định thành lập công ty cổ phần nhưng lại lúng túng trong các bước làm hồ sơ thì hãy tham khảo những thủ tục thành lập công ty cổ phần của **VIKILAW** sau đây.
 ## Nộp hồ sơ
