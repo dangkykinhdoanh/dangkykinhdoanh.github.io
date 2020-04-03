@@ -2,7 +2,7 @@
 title: "Thủ tục thành lập công ty cổ phần"
 excerpt_separator: "<!--more-->"
 categories:
-  - blog
+  - Blogs
 tags:
   - congtycophan
   - thanhlapmoi

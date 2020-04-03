@@ -2,7 +2,7 @@
 title:"Thủ tục thành lập Doanh nghiệp tư nhân"
 excerpt_separator: "<!--more-->"
 categories:
-  - blog
+  - Blogs
 tags:
   - doanhnghieptunhan
   - thanhlapmoi
