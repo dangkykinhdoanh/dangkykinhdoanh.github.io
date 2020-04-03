@@ -2,14 +2,13 @@
 title:"Thủ tục thành lập Doanh nghiệp tư nhân"
 excerpt_separator: "<!--more-->"
 categories:
-  - huongdan
+  - blog
 tags:
   - doanhnghieptunhan
   - thanhlapmoi
   - dangkykinhdoanh
   - thanhlapdoanhnghiep
   - giayphepkinhdoanh
-toc: true
 ---
 
 
