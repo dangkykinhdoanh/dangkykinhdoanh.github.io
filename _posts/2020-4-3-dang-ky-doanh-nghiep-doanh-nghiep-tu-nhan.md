@@ -1,5 +1,6 @@
 ---
 title:"Thủ tục thành lập Doanh nghiệp tư nhân"
+excerpt_separator: "<!--more-->"
 categories:
   - huongdan
 tags:
@@ -57,11 +58,13 @@ Mẫu tờ khai [PhụlụcII-12.docx](https://bit.ly/mau-to-khai-phu-luc-II12)
 **Trường hợp đăng ký trực tiếp:**
 
 Trường hợp nhận đủ hồ sơ hợp lệ, Phòng Đăng ký kinh doanh cấp Giấy chứng nhận đăng ký doanh nghiệp trong thời hạn 03 (ba) ngày làm việc.
+
 Nếu từ chối cấp Giấy chứng nhận đăng ký doanh nghiệp thì Phòng Đăng ký kinh doanh sẽ thông báo cho người thành lập doanh nghiệp biết bằng văn bản trong thời hạn 03 (ba) ngày làm việc. Thông báo phải nêu rõ lý do và các yêu cầu sửa đổi, bổ sung hồ sơ.
 
 **Trường hợp đăng ký qua mạng điện tử sử dụng chữ ký số công cộng:**
 
 Trường hợp hồ sơ đủ điều kiện cấp Giấy chứng nhận đăng ký doanh nghiệp, Phòng Đăng ký kinh doanh gửi thông tin sang cơ quan thuế để tự động tạo mã số doanh nghiệp. Sau khi nhận được mã số doanh nghiệp từ cơ quan thuế, Phòng Đăng ký kinh doanh cấp Giấy chứng nhận đăng ký doanh nghiệp và thông báo cho doanh nghiệp về việc cấp Giấy chứng nhận đăng ký doanh nghiệp.
+
 Trường hợp hồ sơ chưa hợp lệ, Phòng Đăng ký kinh doanh gửi thông báo qua mạng điện tử cho doanh nghiệp để yêu cầu sửa đổi, bổ sung hồ sơ.
 
 **Trường hợp đăng ký qua mạng điện tử sử dụng Tài khoản đăng ký kinh doanh:**
@@ -69,8 +72,11 @@ Trường hợp hồ sơ chưa hợp lệ, Phòng Đăng ký kinh doanh gửi th
 Phòng Đăng ký kinh doanh có trách nhiệm xem xét, gửi thông báo qua mạng điện tử cho doanh nghiệp để yêu cầu sửa đổi, bổ sung hồ sơ trong trường hợp hồ sơ chưa hợp lệ. Khi hồ sơ đã đủ điều kiện cấp Giấy chứng nhận đăng ký doanh nghiệp, Phòng Đăng ký kinh doanh gửi thông tin sang cơ quan thuế để tạo mã số doanh nghiệp. Sau khi nhận được mã số doanh nghiệp từ cơ quan thuế, Phòng Đăng ký kinh doanh thông báo qua mạng điện tử cho doanh nghiệp về việc cấp Giấy chứng nhận đăng ký doanh nghiệp.
 
 Sau khi nhận được thông báo về việc cấp Giấy chứng nhận đăng ký doanh nghiệp, người đại diện theo pháp luật nộp một bộ hồ sơ đăng ký doanh nghiệp bằng bản giấy kèm theo Giấy biên nhận hồ sơ đăng ký doanh nghiệp qua mạng điện tử đến Phòng Đăng ký kinh doanh. Người đại diện theo pháp luật có thể nộp trực tiếp hồ sơ đăng ký doanh nghiệp bằng bản giấy và Giấy biên nhận hồ sơ đăng ký doanh nghiệp qua mạng điện tử tại Phòng Đăng ký kinh doanh hoặc nộp qua đường bưu điện.
+
 Sau khi nhận được hồ sơ bằng bản giấy, Phòng Đăng ký kinh doanh đối chiếu đầu mục hồ sơ với đầu mục hồ sơ doanh nghiệp đã gửi qua mạng điện tử và trao Giấy chứng nhận đăng ký doanh nghiệp cho doanh nghiệp nếu nội dung đối chiếu thống nhất.
+
 Nếu quá thời hạn 30 ngày, kể từ ngày gửi thông báo về việc cấp Giấy chứng nhận đăng ký doanh nghiệp mà Phòng Đăng ký kinh doanh không nhận được hồ sơ bằng bản giấy thì hồ sơ đăng ký điện tử của doanh nghiệp không còn hiệu lực.
+
 Người đại diện theo pháp luật chịu trách nhiệm về tính đầy đủ và chính xác của bộ hồ sơ nộp bằng bản giấy so với bộ hồ sơ được gửi qua mạng điện tử. Trường hợp bộ hồ sơ nộp bằng bản giấy không chính xác so với bộ hồ sơ được gửi qua mạng điện tử mà người nộp hồ sơ không thông báo với Phòng Đăng ký kinh doanh tại thời điểm nộp hồ sơ bằng bản giấy thì được coi là giả mạo hồ sơ và sẽ bị xử lý theo quy định tại Khoản 1 Điều 63 Nghị định số 108/2018/NĐ-CP
 
 **Lệ phí:**
