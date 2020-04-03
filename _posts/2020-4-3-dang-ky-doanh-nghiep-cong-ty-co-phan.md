@@ -1,11 +1,12 @@
 ---
-layout: single
-title: "Thủ tục thành lập công ty Cổ phần"
-excerpt: "Đăng ký kinh doanh - Wikilawfirm"
-categories: 
-    - blog
+title: " Thủ tục thành lập công ty cổ phần"
+excerpt_separator: "<!--more-->"
+categories:
+  - blog
 tags:
-	- congtycophan
+  - dangkykinhdoanh
+  - thanhlapdoanhnghiep
+  - giayphepkinhdoanh
 ---
 
 
