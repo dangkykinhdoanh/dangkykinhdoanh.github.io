@@ -1,8 +1,7 @@
 ---
-title: " Thủ tục thành lập công ty Cổ phần "
-preview: " Hướng dẫn đăng ký thành lập mới công ty cổ phần, thủ tục, mẫu tờ khai, lệ phí thành lập công ty cổ phần. " 
-layout: post
-
+layout: single
+title: "Thủ tục thành lập công ty Cổ phần"
+excerpt: "Đăng ký kinh doanh - Wikilawfirm"
 categories: 
     - blog
 tags:
