@@ -13,7 +13,7 @@ toc_icon: "file-alt"
 ---
 
 
-Công ty cổ phần là loại hình doanh nghiệp phổ biến nhất hiện nay xuất phát chính từ nhu cầu khách quan phát triển kinh tế – xã hội cần có sự liên kết vốn, đây là doanh nghiệp duy nhất có quyền phát hành cổ phiếu và được tham gia huy động vốn trên thị trường chứng khoán. Đồng thời về mặt chủ quan, các nhà đầu tư muốn chia sẻ những gánh nặng rủi ro trong kinh doanh và tìm kiếm lợi nhuận cao hơn nên loại hình này sẽ là lựa chọn của nhiều nhà đầu tư. Nếu bạn đang có ý định thành lập công ty cổ phần nhưng lại lúng túng trong các bước làm hồ sơ thì hãy tham khảo những thủ tục thành lập công ty cổ phần của **VIKILAW** sau đây.
+Công ty hợp danh là một loại hình trong 5 loại hình doanh nghiệp được phép thành lập và hoạt động tại Việt Nam. Trong Luật doanh nghiệp có quy định về thực hiện việc góp vốn, tài sản góp vốn, cơ cấu quản lý, quyền và nghĩa vụ của các thành viên góp vốn, thành viên hợp danh. Quy định về tài sản công ty, việc điều hành công ty hợp danh. Dưới đây là thông tin chi tiết về [công ty Hợp Danh](https://vi.wikipedia.org/wiki/C%C3%B4ng_ty_h%E1%BB%A3p_danh). Nếu bạn đang có ý định thành lập công ty Hợp Danh nhưng lại lúng túng trong các bước làm hồ sơ thì hãy tham khảo những thủ tục thành lập công ty Hợp Danh của **VIKILAW** sau đây.
 
 ## Chuẩn bị hồ sơ
 
