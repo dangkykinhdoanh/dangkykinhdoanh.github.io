@@ -1,7 +1,7 @@
 ---
-title: "Thủ tục thành lập Công ty Trách Nhiệm Hữu Hạn"
+title: "Thủ tục thành lập Công ty trách nhiệm hữu hạn"
 share: true
-excerpt_separator: "Thủ tục thành lập Công ty Trách Nhiệm Hữu Hạn Một Thành Viên, Công ty TNHH Hai Thành Viên. Hồ sơ, chi phí... "
+excerpt_separator: "Thủ tục thành lập Công ty trách nhiệm hữu hạn Một Thành Viên, Công ty TNHH Hai Thành Viên. Hồ sơ, chi phí... "
 categories:
   - Blogs
 tags:
@@ -11,7 +11,7 @@ toc_label: "Mục Lục"
 toc_icon: "file-alt"
 ---
 
-Công ty trách nhiệm hữu hạn một thành viên là doanh nghiệp do một tổ chức hoặc một cá nhân làm chủ sở hữu; chủ sở hữu công ty chịu trách nhiệm về các khoản nợ và nghĩa vụ tài sản khác của công ty trong phạm vi số vốn điều lệ của công ty. Nếu bạn đang có ý định thành lập Công ty TNHH Một Thành Viên nhưng lại lúng túng trong các bước làm hồ sơ thì hãy tham khảo những thủ tục thành lập Công ty TNHH MTV của **VIKILAW** sau đây.
+Công ty trách nhiệm hữu hạn một thành viên là doanh nghiệp do một tổ chức hoặc một cá nhân làm chủ sở hữu; chủ sở hữu công ty chịu trách nhiệm về các khoản nợ và nghĩa vụ tài sản khác của công ty trong phạm vi số vốn điều lệ của công ty. Nếu bạn đang có ý định thành lập [Công ty trách nhiệm hữu](https://vi.wikipedia.org/wiki/C%C3%B4ng_ty_tr%C3%A1ch_nhi%E1%BB%87m_h%E1%BB%AFu_h%E1%BA%A1n_(LLC)) hạn Một Thành Viên nhưng lại lúng túng trong các bước làm hồ sơ thì hãy tham khảo những thủ tục thành lập Công ty TNHH MTV của **VIKILAW** sau đây.
 
 ## Chuẩn bị hồ sơ
 

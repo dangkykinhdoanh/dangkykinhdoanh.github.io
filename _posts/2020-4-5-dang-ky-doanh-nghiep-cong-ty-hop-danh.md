@@ -1,7 +1,7 @@
 ---
-title: "Thủ tục thành lập công ty hợp danh"
+title: "Thủ tục thành lập Công ty hợp danh"
 share: true
-excerpt_separator: "Thủ tục thành lập Công ty Hợp Danh, Hồ sơ gồm gì? Chi phí bao nhiêu? quy trình đăng ký..."
+excerpt_separator: "Thủ tục thành lập Công ty hợp danh, Hồ sơ gồm gì? Chi phí bao nhiêu? quy trình đăng ký..."
 categories:
   - Blogs
 tags:
@@ -13,7 +13,7 @@ toc_icon: "file-alt"
 ---
 
 
-Công ty hợp danh là một loại hình trong 5 loại hình doanh nghiệp được phép thành lập và hoạt động tại Việt Nam. Trong Luật doanh nghiệp có quy định về thực hiện việc góp vốn, tài sản góp vốn, cơ cấu quản lý, quyền và nghĩa vụ của các thành viên góp vốn, thành viên hợp danh. Quy định về tài sản công ty, việc điều hành công ty hợp danh. Dưới đây là thông tin chi tiết về [công ty Hợp Danh](https://vi.wikipedia.org/wiki/C%C3%B4ng_ty_h%E1%BB%A3p_danh). Nếu bạn đang có ý định thành lập công ty Hợp Danh nhưng lại lúng túng trong các bước làm hồ sơ thì hãy tham khảo những thủ tục thành lập công ty Hợp Danh của **VIKILAW** sau đây.
+Công ty hợp danh là một loại hình trong 5 loại hình doanh nghiệp được phép thành lập và hoạt động tại Việt Nam. Trong Luật doanh nghiệp có quy định về thực hiện việc góp vốn, tài sản góp vốn, cơ cấu quản lý, quyền và nghĩa vụ của các thành viên góp vốn, thành viên hợp danh. Quy định về tài sản công ty, việc điều hành công ty hợp danh. Dưới đây là thông tin chi tiết về [công ty hợp danh](https://vi.wikipedia.org/wiki/C%C3%B4ng_ty_h%E1%BB%A3p_danh). Nếu bạn đang có ý định thành lập công ty Hợp Danh nhưng lại lúng túng trong các bước làm hồ sơ thì hãy tham khảo những thủ tục thành lập công ty hợp danh của **VIKILAW** sau đây.
 
 ## Chuẩn bị hồ sơ
 
