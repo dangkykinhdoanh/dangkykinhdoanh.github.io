@@ -17,28 +17,28 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "vi-VN"
 title                    : "ĐĂNG KÝ KINH DOANH"
-title_separator          : " Đăng ký kinh doanh tại Đà Nẵng, Thành lập doanh nghiệp, xin giấy phép con tại Đà Năng"
+title_separator          : "Hướng dẫn Đăng ký kinh doanh tại Đà Nẵng, Thành lập doanh nghiệp, xin giấy phép con tại Đà Năng"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "ĐĂNG KÝ KINH DOANH"
-description              : "Thuê Nhà Đà Nẵng"
-url                      : "https://dangkykinhdoanh.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "THỦ TỤC ĐĂNG KÝ KINH DOANH, THÀNH LẬP DOANH NGHIỆP"
+description              : "Hướng dẫn thủ tục Đăng ký kinh doanh tại Đà Nẵng, Thành lập Doanh nghiệp tại Đà Nẵng"
+url                      : "https://luatdangkykinhdoanh.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "dangkykinhdoanh/dangkykinhdoanh.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/favicon.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            :  "dangkykinhdoanhdanang" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "dangkykinhdoanhdanang" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
+    appid                : "578749556019505"
+    num_posts            : 5 # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
     theme                : # "github-light" (default), "github-dark"
@@ -60,11 +60,11 @@ algolia:
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : # true (default), false
 google:
-  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
+  search_engine_id       : "004618942134058954585" # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
-bing_site_verification   :
+google_site_verification : "-qBWCgDuaYIj2eUcBTyGzqHCRbrkXEAOs_5DagEXx_M"
+bing_site_verification   : 
 yandex_site_verification :
 naver_site_verification  :
 
@@ -75,7 +75,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/images/vikilogo.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -85,16 +85,16 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
-
+    tracking_id          : "GTM-N8MHT2D"
+    anonymize_ip         :  false # true, false (default)
+    optimize_id          : "GTM-P8N9VSP"
 
 # Site Author
 author:
   name             : "VIKILAWFIRM"
-  avatar           : "/images/vikilogo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/vikilogo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Đăng ký kinh doanh tại Đà Nẵng, Tư vấn đăng ký kinh doanh, xin giấy phép con, thành lập doanh nghiệp"
   location         : "Đà Nẵng, Việt Nam"
   email            : "vikilawfirm@gmail.com"
@@ -104,7 +104,7 @@ author:
       # url: "mailto:vikilawfirm@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://vikilawfirm.com"
+      url: "https://vikilawfirm.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -126,7 +126,7 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/VIKILawFirm/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
@@ -139,7 +139,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-
+    - label: "thue nha da nang"
+      icon: "fas fa-fw fa-link"
+      url: "https://luxa.vn/thue-nha-nguyen-can-da-nang.html"
 
 # Reading Files
 include:

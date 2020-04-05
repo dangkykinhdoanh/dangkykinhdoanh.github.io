@@ -1,85 +1,57 @@
 ---
+layout: single
 permalink: /about/
-title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
-    alt: "archive layout example"
-last_modified_at: 2020-03-23T14:07:54-04:00
+title: "Giới thiệu VIKILAWFIRM"
+excerpt: "Đăng ký kinh doanh - Wikilawfirm"
+published: true
+comments: true
+author_profile: true
 toc: true
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+VIKI LAW  là đơn vị trực thuộc hãng luật HALF với đội ngũ chuyên viên nhiều kinh nghiệm, có uy tín, là một trong những Hãng luật hoạt động chuyên nghiệp trong lĩnh vực tư vấn về đầu tư; thương mại Quốc tế; doanh nghiệp; mua bán & sáp nhập (M&A); tài chính & ngân hàng; thị trường vốn; thuế; bất động sản; hợp đồng; năng lượng; viễn thông; xây dựng; hàng hải; sở hữu trí tuệ; giải quyết tranh chấp… và được công nhận là một trong những Hãng luật kinh doanh hàng đầu tại Việt Nam.…
 
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
+## DỊCH VỤ CỦA VIKILAWFIRM
 
-[Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
+### Dịch vụ Thành lập Công ty
+- Dịch vụ thành lập doanh nghiệp trọn gói;
+- Tư vấn về thành lập công ty tại Đà Nẵng;
+- Thành lập chi nhánh, văn phòng đại diện, lập địa điểm kinh doanh tại Đà Nẵng;
+- Dịch vụ thành lập Công ty tại Đà Nẵng Uy Tín Giá Rẻ;
 
-## Notable Features
+### Dịch vụ xin giấy phép con 
+- Bản thông báo hoạt động sàn bất động sản.
+- Chứng nhận tiêu chuẩn sản phẩm: tự sản xuất hoặc nhập khẩu.
+- Giấy phép chứng nhận hoạt động của một trung tâm ngoại ngữ
+- Giấy phép biểu diễn nghệ thuật
+- Giấy phép nhập khẩu thuốc bảo vệ thực vật
+- Giấy phép kinh doanh thuốc lá
+- Giấy phép kinh doanh nhà thuốc
+- Giấy phép bán lẻ rượu
+- Giấy phép bán buôn rượu
+- Giấy chứng nhận đủ điều kiện sản xuất phim
+- Giấy đăng ký tổ chức bán hàng đa cấp
+- Giấy phép kinh doanh vận tải bằng xe ô tô
+- Giấy phép viễn thông
+- Giấy phép đầu tư
+- Giấy phép hoạt động dịch vụ xuất khẩu lao động
+- Giấy phép lao động
+- Giấy phép kinh doanh lữ hành nội địa/quốc tế
+- Giấy phép chuyển phát nhanh
+- Giấy phép tạm nhập, tái xuất
 
-- Bundled as a "theme gem" for easier install/upgrading.
-- Compatible with GitHub Pages.
-- Support for Jekyll's built-in Sass/SCSS preprocessor.
-- Nine different skins (color variations).
-- Several responsive layout options (single, archive index, search, splash, and paginated home page).
-- Optimized for search engines with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data
-- Optional [header images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers), [custom sidebars](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#sidebars), [table of contents](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents), [galleries](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery), related posts, [breadcrumb links](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#breadcrumb-navigation-beta), [navigation lists](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list), and more.
-- Commenting support (powered by [Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), [Discourse](https://www.discourse.org/), [utterances](https://utteranc.es/), static-based via [Staticman v1 and v2](https://staticman.net/), and custom).
-- [Google Analytics](https://www.google.com/analytics/) support.
-- UI localized text in English (default), Brazilian Portuguese (Português brasileiro), Catalan, Chinese, Danish, Dutch, Finnish, French (Français), German (Deutsch), Greek, Hindi (हिंदी), Hungarian, Indonesian, Irish (Gaeilge), Italian (Italiano), Japanese, Korean, Malayalam, Nepali (Nepalese), Persian (فارسی), Polish, Punjabi (ਪੰਜਾਬੀ), Romanian, Russian, Slovak, Spanish (Español), Swedish, Thai, Turkish (Türkçe), and Vietnamese.
+### Dịch vụ thay đổi Đăng ký kinh doanh
+- Thay đổi nội dung đăng ký kinh doanh của chi nhánh, văn phòng đại diện, địa điểm kinh doanh;
+- Thay đổi nội dung đăng ký kinh doanh: Thay đổi về vốn, thay đổi về trụ sở, thay đổi về tên công ty, thay đổi thành viên/cổ đông công ty, thay đổi người đại diện theo pháp luật, thay đổi cơ cấu vốn góp, …
+- Chuyển đổi loại hình doanh nghiệp từ công ty TNHH hai thành viên, công ty TNHH một thành viên lên công ty cổ phần và ngược lại;
+- Cấp lại giấy chứng nhận đăng ký doanh nghiệp do bị mất, thất lạc, rách;
+- Cấp lại dấu công ty do bị mất, hư hỏng …
+- Giải thể công ty, mua bán, sát nhập, hợp nhất, chia tách công ty.
 
-## Demo Pages
+###  Dịch vụ xuất nhập cảnh
+- Cấp mới, gia hạn visa – thị thực;
+- Cấp mới thẻ tạm trú, gia hạn tạm trú cho người nước ngoài;
+- Cấp mới, gia hạn giấy phép lao động – WorkPermit;
+- Thẻ APEC (ABTC);
+- Dịch vụ khác liên quan đến người nước ngoài sống và làm việc tại Việt Nam;
 
-| Name                                        | Description                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| [Post with Header Image][header-image-post] | A post with a large header image. |
-| [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
-| [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
-| [Post with a Gallery][gallery-post] | A post showing several images wrapped in `<figure>` elements. |
-| [Sample Collection Page][sample-collection] | Single page from a collection. |
-| [Categories Archive][categories-archive] | Posts grouped by category. |
-| [Tags Archive][tags-archive] | Posts grouped by tag. |
-
-For even more demo pages check the [posts archive][year-archive].
-
-[header-image-post]: {{ "" | relative_url }}{% post_url 2012-03-15-layout-header-image-text-readability %}
-[gallery-post]: {{ "" | relative_url }}{% post_url 2010-09-09-post-gallery %}
-[html-tags-post]: {{ "" | relative_url }}{% post_url 2013-01-11-markup-html-tags-and-formatting %}
-[syntax-post]: {{ "" | relative_url }}{% post_url 2013-08-16-markup-syntax-highlighting %}
-[sample-collection]: {{ "/recipes/chocolate-chip-cookies/" | relative_url }}
-[categories-archive]: {{ "/categories/" | relative_url }}
-[tags-archive]: {{ "/tags/" | relative_url }}
-[year-archive]: {{ "/year-archive/" | relative_url }}
-
----
-
-## Credits
-
-### Icons + Demo Images:
-
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
-- [Font Awesome](http://fontawesome.io/)
-- [Unsplash](https://unsplash.com/)
-
-### Other:
-
-- [Jekyll](https://jekyllrb.com/)
-- [jQuery](https://jquery.com/)
-- [Susy](http://susy.oddbird.net/)
-- [Breakpoint](http://breakpoint-sass.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
-- Greedy Navigation - [lukejacksonn](https://codepen.io/lukejacksonn/pen/PwmwWV)
-- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
-- [Lunr](http://lunrjs.com)
-
----
-
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
