@@ -1,7 +1,7 @@
 ---
-title: "Thủ tục thành lập Văn phòng đại diện"
+title: "Các mẫu văn bản sử dụng trong đăng ký kinh doanh 2020"
 share: true
-excerpt_separator: "Thủ tục thành lập mới Văn phòng đại diện, Hồ sơ gồm gì? Chi phí bao nhiêu? quy trình đăng ký..."
+excerpt_separator: "DANH MỤC CÁC MẪU VĂN BẢN SỬ DỤNG TRONG  ĐĂNG KÝ DOANH NGHIỆP, ĐĂNG KÝ HỘ KINH DOANH NĂM 2020"
 categories:
   - Training
   - Lybrary
