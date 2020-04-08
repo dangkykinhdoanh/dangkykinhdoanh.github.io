@@ -6,7 +6,7 @@ categories:
   - Blogs
 tags:
   - chinhanh
-
+  - thanhlapmoi
 toc: true
 toc_label: "Mục Lục"
 toc_icon: "file-alt"
