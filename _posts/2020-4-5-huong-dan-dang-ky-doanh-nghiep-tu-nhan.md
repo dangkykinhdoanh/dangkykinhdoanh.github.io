@@ -255,9 +255,11 @@ Doanh nghiệp có quyền lập chi nhánh, văn phòng đại diện ở trong
 - Thông báo thành lập chi nhánh, văn phòng đại diện ([Phụ lục II-11](https://bit.ly/Phụ-lục-II-11) , Thông tư số 20/2015/TT-BKHĐT);
 - Bản sao hợp lệ quyết định bổ nhiệm người đứng đằu chi nhánh, văn phòng đại diện;
 - Bản sao hợp lệ một trong các giấy tờ chứng thực cá nhân quy định tại Điều 10 Nghị định số 78/2015/NĐ- CP của người đứng đầu chi nhánh, văn phòng đại diện.
+
 ### CÁCH THỨC NỘP HỒ SƠ
 - Nộp hồ sơ đăng ký hoạt động chi nhánh/văn phòng đại diện và lệ phí trực tiếp tại Phòng ĐKKD
 - Nộp hồ sơ ĐKDN và lệ phí qua mạng điện từ (sừ dụng chữ ký số hoặc Tài khồàn ĐKKD) theo quy trình trên Cổng Thông tin quốc gia về đăng ký doanh nghiệp
+
 ### TRÌNH TỰ THỰC HIỆN
 
 ![NỘP HỒ SƠ ĐANG KÝ CHI NHÁNH, VĂN PHÒNG ĐẠI DIỆN](/assets/images/dangkydoanhnghiep-vanphongdaidien.JPG)
