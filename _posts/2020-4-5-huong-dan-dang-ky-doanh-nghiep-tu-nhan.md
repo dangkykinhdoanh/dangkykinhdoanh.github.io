@@ -101,7 +101,7 @@ Người mua doanh nghiệp phải đăng ký thay đổi chủ DNTN theo quy đ
 
 ##  Đặt tên doanh nghiệp như thế nào cho đúng với quy định của pháp luật?
 
-**QUY TẮC ĐẶT TÊN:**
+### QUY TẮC ĐẶT TÊN:
 
 Tên doanh nghiệp = “Doanh nghiệp tư nhân” + “Tên riêng của doanh nghiệp”
 
@@ -113,7 +113,7 @@ Tên riêng được viết bằng các chữ cái trong bảng chữ cái tiế
 
 ` Ví dụ: Có thế đặt tên doanh nghiệp như sau: "Doanh nghiệp tư nhân Ngân Hà”; "DNTN Đại Phát”; "Doanh nghiệp TN Cường Đại Phát 123”`
 
-**TÊN DOANH NGHIỆP BẰNG TIẾNG NƯỚC NGOÀI VÀ TÊN VIẾT TẮT:**
+### TÊN DOANH NGHIỆP BẰNG TIẾNG NƯỚC NGOÀI VÀ TÊN VIẾT TẮT:
 
 Tên doanh nghiệp bằng tiếng nước ngoài được dịch từ tên tiếng Việt sang một trong những tiếng nước ngoài hệ chữ La-tinh.
 
@@ -125,13 +125,13 @@ Tên bằng tiếng nước ngoài của doanh nghiệp được in hoặc viế
 
 Tên viết tắt của doanh nghiệp được viết tắt từ tên tiếng Việt hoặc tên viết bằng tiếng nuớc ngoài.
 
-**CÁC YÊU CẦU LIÊN QUAN ĐẾN TÊN DOANH NGHIỆP:**
+### CÁC YÊU CẦU LIÊN QUAN ĐẾN TÊN DOANH NGHIỆP:
 
 Tên doanh nghiệp phải được gắn tại trụ sở chính, chi nhánh, văn phòng đại diện, địa điểm kinh doanh của doanh nghiệp.
 
 Tên doanh nghiệp phải được in hoặc viết trên các giấy tờ giao dịch, hồ sơ tài liệu và ấn phẩm do doanh nghiệp phát hành.
 
-**NHỮNG ĐIỀU CẤM TRONG ĐẶT TÊN DOANH NGHIỆP:**
+### NHỮNG ĐIỀU CẤM TRONG ĐẶT TÊN DOANH NGHIỆP:
 
 Đặt tên trùng hoặc tên gây nhầm lẫn với tên của doanh nghiệp đã đăng ký.
 
@@ -139,7 +139,8 @@ Sử dụng tên cơ quan nhà nước, đon vị vũ trang nhân dân, tên c�
 
 Sừ dụng từ ngữ, ký hiệu vi phạm truyền thống lịch sử, văn hóa, đạo đức và thuần phong mỹ tục của dân tộc.
 
->**LƯU Ý:** cơ quan ĐKKD có quyền quyết định chấp thuận hoặc từ chối tên dự kiến đăng ký của doanh nghiệp theo quy định của pháp luật và quyết định của cơ quan ĐKKD là quyết định cuối cùng.
+**LƯU Ý:** cơ quan ĐKKD có quyền quyết định chấp thuận hoặc từ chối tên dự kiến đăng ký của doanh nghiệp theo quy định của pháp luật và quyết định của cơ quan ĐKKD là quyết định cuối cùng.
+{: .notice--warning}
 
 ## Như thế nào được gọi Là tên trùng, tên gây nhằm Lẫn?
 
@@ -164,7 +165,7 @@ Các trường hợp sau đây được coi là tên gây nhầm lẫn với tê
 
 ## Những điều cần biết về quy định đối với ngành, nghề kinh doanh của doanh nghiệp?
 
-**NHỮNG ĐIÊU CẦN LƯU Ý VÊ NGÀNH, NGHỀ KINH DOANH:**
+### NHỮNG ĐIÊU CẦN LƯU Ý VÊ NGÀNH, NGHỀ KINH DOANH:
 
 Doanh nghiệp được quyền kinh doanh tất cả những ngành, nghề mà pháp luật không cấm.
 
@@ -174,7 +175,7 @@ Doanh nghiệp được quyền kinh doanh ngành, nghề đầu tư kinh doanh 
 
 Các hành vi bị nghiêm cấm: kinh doanh các ngành, nghề cấm đầu tư kinh doanh; kinh doanh ngành, nghề đầu tư kinh doanh có điều kiện khi chưa đủ các điều kiện kinh doanh theo quy định của luật đầu tư hoặc không bảo đảm duy trì đủ điều kiện kinh doanh trong quá trình hoạt động.
 
-**GHI NGÀNH, NGHÊ KINH DOANH:**
+### GHI NGÀNH, NGHỀ KINH DOANH:
 
 Trên Giấy Chứng nhận đăng ký doanh nghiệp không ghi ngành, nghề kinh doanh của doanh nghiệp.
 
@@ -190,7 +191,7 @@ Nếu doanh nghiệp có nhu cầu đăng ký ngành, nghề kinh doanh chi ti�
 	
 ##  Hồ sơ, trình tự, thủ tục đăng ký thành Lập DNTN?
 
-**CHUẨN BỊ HỒ SƠ**
+### CHUẨN BỊ HỒ SƠ
 
 Giấy đề nghị đăng ký doanh nghiệp DNTN
 
@@ -200,7 +201,7 @@ Bản sao hợp lệ của một trong các giấy tờ chứng thực cá nhân
 
 Đối với người nước ngoài: Hộ chiếu nước ngoài hoặc giấy tờ có giá trị thay thế hộ chiếu nước ngoài còn hiệu lực.
 
-**CÁCH THỨC NỘP HỒ SƠ**
+### CÁCH THỨC NỘP HỒ SƠ
 
 Người thành lập doanh nghiệp có thể lựa chọn một trong hai phương thức nộp hồ sơ sau:
 
@@ -208,7 +209,7 @@ Nộp hồ sơ ĐKDN và lệ phí trực tiếp tại Phòng ĐKKD
 
 Nộp hồ sơ ĐKDN và lệ phí qua mạng điện tử (sử dụng chữ ký số hoặc Tài khỏan ĐKKD) theo quy trình trên Cổng Thông tin quốc gia về đăng ký doanh nghiệp.
 
-**TRÌNH TỰ THỰC HIỆN**
+### TRÌNH TỰ THỰC HIỆN
 1.	NẾU NỘP HỒ SƠ TRỰC TIẾP TẠI PHÒNG ĐKKD:
 
 ![NỘP HỒ SƠ TRỰC TIẾP TẠI PHÒNG ĐKKD](/assets/images/dangkydoanhnghiep-nophstructiep.JPG)
