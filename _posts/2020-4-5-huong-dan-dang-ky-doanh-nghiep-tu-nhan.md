@@ -221,7 +221,5 @@ Nộp hồ sơ ĐKDN và lệ phí qua mạng điện tử (sừ dụng chữ k�
 
 ![NỘP HỒ SƠ TRỰC TIẾP TẠI PHÒNG ĐKKD](/assets/images/dangkydoanhnghiep-nopquamangdientu.JPG)
 
-[[notice | LƯU Ý]]
-| Hồ sơ đăng ký doanh nghiệp gua mạng điện từ hợp lệ được quy định tại Điều 36 Nghị định số 78/2015/ND-CP ngày 14/9/2015 của Chính phủ về ĐKDN. Nếu guá thời hạn 30 ngày, kế từ ngày gửi thông báo về việc cấp Giấy chứng nhận đăng ký doanh nghiệp mà Phòng ĐKKD không nhận được hồ sơ bằng bản giấy thì hồ sơ đăng ký điện tử của doanh nghiệp không còn hiệu lực. Nếu bộ hồ sơ nộp bằng bản giấy không chính xác so với bộ hồ sơ được gửi gua mạng điện tử mà người nộp hồ sơ không thông báo với Phòng ĐKKD tại thời điểm nộp hồ sơ bằng bản giấy thì được coi là giả mạo hồ sơ và sẽ bị xử lý theo quy định tại Khỏan 1 Điều 63 Nghị định so 78/2015/ND-CP.
-
-Quy trình đăng ký doanh nghiệp qua mạng điện tử ở trên cũng áp dụng đối với việc đăng ký hoạt động chi nhánh, văn phòng đại diện, thông báo lập địa điểm kinh doanh của doanh nghiệp.
+[[notice | Update: field name change ]]
+| After publishing this article I learned that [`options[parent]`](https://github.com/eduardoboucas/staticman/issues/42#issuecomment-262938831) is meant to identify subscription entries, and not comment lineage. I've since changed to `fields[replying_to]` and updated the article and sample code to reflect this.
