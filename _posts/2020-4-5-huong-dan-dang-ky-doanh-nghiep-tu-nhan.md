@@ -26,11 +26,11 @@ Với ý nghĩa đó, Bộ tài liệu được xây dựng thành Quyển, dàn
 
 Chúng tôi hy vọng rằng Bộ tài liệu sẽ cung cấp thông tin hữu ích cho những doanh nhân tiềm năng trước khi khởi đầu công việc kinh doanh hay các cá nhân, tổ chức khác có nhu cầu tham khảo. Nhân đây, chúng tôi xin trân trọng cảm ơn Cục Hợp tác kinh tế Liên bang Thụy Sỹ, Tổ chức phát triển công nghiệp Liên hợp quốc đã có những hỗ trợ hết sức thiết thực vì sự phát triền của lĩnh vực đăng ký kinh doanh ở Việt Nam nói riêng, khu vực kinh tế tu nhân của Việt Nam nói chung. 
 
-Cuối cùng, chúng tôi rất mong nhận được sự góp ý chân thành của Quý độc giả đế Bộ tài liệu này được hoàn thiện hơn trong những lần xuất bản tiếp theo.
+Cuối cùng, chúng tôi rất mong nhận được sự góp ý chân thành của Quý độc giả để Bộ tài liệu này được hoàn thiện hơn trong những lần xuất bản tiếp theo.
 
 ##  Những thông tin cơ bản cần tìm hiểu trước khi thành lập doanh nghiệp?
 
-Thành Lập doanh nghiệp là bước khởi đầu, tạo lập công cụ để thực hiện một ý tưởng kinh doanh. Đế đảm bào doanh nghiệp của bạn sẽ là một công cụ kinh doanh hiệu quả và an toàn, trước tiên, bạn cần lưu ý tìm hiểu những thông tin cơ bản sau:
+Thành Lập doanh nghiệp là bước khởi đầu, tạo lập công cụ để thực hiện một ý tưởng kinh doanh. để đảm bảo doanh nghiệp của bạn sẽ là một công cụ kinh doanh hiệu quả và an toàn, trước tiên, bạn cần lưu ý tìm hiểu những thông tin cơ bản sau:
 - Loại hình doanh nghiệp nào là phù hợp?
 - Lựa chọn mô hình tổ chức quản lý nào?
 - Lựa chọn tên doanh nghiệp như thế nào?
@@ -179,7 +179,7 @@ Các hành vi bị nghiêm cấm: kinh doanh các ngành, nghề cấm đầu t�
 
 Trên Giấy Chứng nhận đăng ký doanh nghiệp không ghi ngành, nghề kinh doanh của doanh nghiệp.
 
-Khi đăng ký thành lập doanh nghiệp, khi thông báo bổ sung, thay đổi ngành, nghề kinh doanh hoặc khi đề nghị cấp đổi sang Giấy Chứng nhận đăng ký doanh nghiệp, người thành lập hoặc doanh nghiệp lựa chọn ngành kinh tế cấp bốn trong Hệ thống ngành kinh tế của Việt Nam đế ghi ngành, nghề kinh doanh trong Giấy đề nghị đăng ký doanh nghiệp, Thông báo thay đổi nội dung ĐKDN hoặc giấy đề nghị cấp đổi sang Giấy Chứng nhận đăng ký doanh nghiệp.
+Khi đăng ký thành lập doanh nghiệp, khi thông báo bổ sung, thay đổi ngành, nghề kinh doanh hoặc khi đề nghị cấp đổi sang Giấy Chứng nhận đăng ký doanh nghiệp, người thành lập hoặc doanh nghiệp lựa chọn ngành kinh tế cấp bốn trong Hệ thống ngành kinh tế của Việt Nam để ghi ngành, nghề kinh doanh trong Giấy đề nghị đăng ký doanh nghiệp, Thông báo thay đổi nội dung ĐKDN hoặc giấy đề nghị cấp đổi sang Giấy Chứng nhận đăng ký doanh nghiệp.
 
 Cơ quan ĐKKD huớng dẫn, đối chiếu và ghi nhận ngành, nghề kinh doanh của doanh nghiệp vào Cơ sở dữ liệu quốc gia về ĐKDN.
 
@@ -193,7 +193,7 @@ Nếu doanh nghiệp có nhu cầu đăng ký ngành, nghề kinh doanh chi ti�
 
 ### CHUẨN BỊ HỒ SƠ
 
-Giấy đề nghị đăng ký doanh nghiệp DNTN
+Giấy đề nghị [đăng ký doanh nghiệp DNTN](https://luatdangkykinhdoanh.com/blogs/dang-ky-doanh-nghiep-doanh-nghiep-tu-nhan/)
 
 Bản sao hợp lệ của một trong các giấy tờ chứng thực cá nhân của chủ DNTN:
 
@@ -217,11 +217,11 @@ Nộp hồ sơ ĐKDN và lệ phí qua mạng điện tử (sử dụng chữ k�
 
 2.	NẾU NỘP HỒ SƠ QUA MẠNG ĐIỆN TỬ SỬ DỤNG CHỮ KÝ SỐ:
 
-![NỘP HỒ SƠ TRỰC TIẾP TẠI PHÒNG ĐKKD](/assets/images/dangkydoanhnghiep-nophstructuyen.JPG)
+![NỘP HỒ SƠ QUA MẠNG ĐIỆN TỬ SỬ DỤNG CHỮ KÝ SỐ](/assets/images/dangkydoanhnghiep-nophstructuyen.JPG)
 
 3.	NỘP HỒ SƠ QUA MẠNG ĐIỆN TỬ SỬ DỤNG TÀI KHOẢN ĐKKD:
 
-![NỘP HỒ SƠ TRỰC TIẾP TẠI PHÒNG ĐKKD](/assets/images/dangkydoanhnghiep-nopquamangdientu.JPG)
+![NỘP HỒ SƠ QUA MẠNG ĐIỆN TỬ SỬ DỤNG TÀI KHOẢN ĐKKD](/assets/images/dangkydoanhnghiep-nopquamangdientu.JPG)
 
 
 {% capture notice-2 %}
@@ -237,4 +237,69 @@ Nộp hồ sơ ĐKDN và lệ phí qua mạng điện tử (sử dụng chữ k�
   {{ notice-2 | markdownify }}
 </div>
   
+### CÔNG BỐ NỘI DUNG ĐĂNG KÝ DOANH NGHIỆP
+
+Doanh nghiệp sau khi được cấp Giấy Chứng nhận đăng ký doanh nghiệp, phải thông báo công khai trên Cổng Thông tin quốc gia về đăng ký doanh nghiệp theo trình tự, thủ tục và phải trả phí theo quy định. Nội dung công bố bao gồm các nội dung Giấy Chứng nhận đăng ký doanh nghiệp và các thông tin về ngành, nghề kinh doanh của doanh nghiệp.
+Trường hợp thay đổi nội dung ĐKDN, những thay đổi tương ứng phải được thông báo công khai trên Cổng Thông tin quốc gia về đăng ký doanh nghiệp.
+Thời hạn thông báo công khai các thông tin về doanh nghiệp nêu trên là 30 ngày, kể từ ngày được công khai.
+
+### PHÍ, LỆ PHÍ
+Lệ phí đăng ký doanh nghiệp: 200.000đ; Phí công bố nội dung đăng ký doanh nghiệp: 300.000đ.
+
+## 14.	HỒ SƠ, TRÌNH TỰ, THỦ TỤC ĐĂNG KÝ HOẠT ĐỘNG CHI NHÁNH, VĂN PHÒNG ĐẠI DIỆN, ĐỊA ĐIỂM KINH DOANH?
+Doanh nghiệp có quyền lập chi nhánh, văn phòng đại diện ở trong nước và nước ngoài. Doanh nghiệp có thể đặt một hoặc nhiều chi nhánh, văn phòng đại diện tại một địa phương theo địa giới hành chính.
+
+Địa điểm kinh doanh của doanh nghiệp có thể ở ngoài địa chỉ đăng ký trụ sở chính. Doanh nghiệp chỉ được lập địa điểm kinh doanh tại tỉnh, thành phố trực thuộc Trung ương nơi doanh nghiệp đặt trụ sở chính hoặc đặt chi nhánh.
+
+### CHUẨN BỊ HỒ SƠ
+- Thông báo thành lập chi nhánh, văn phòng đại diện ([Phụ lục II-11](https://bit.ly/Phụ-lục-II-11) , Thông tư số 20/2015/TT-BKHĐT);
+- Bản sao hợp lệ quyết định bổ nhiệm người đứng đằu chi nhánh, văn phòng đại diện;
+- Bản sao hợp lệ một trong các giấy tờ chứng thực cá nhân quy định tại Điều 10 Nghị định số 78/2015/NĐ- CP của người đứng đầu chi nhánh, văn phòng đại diện.
+### CÁCH THỨC NỘP HỒ SƠ
+- Nộp hồ sơ đăng ký hoạt động chi nhánh/văn phòng đại diện và lệ phí trực tiếp tại Phòng ĐKKD
+- Nộp hồ sơ ĐKDN và lệ phí qua mạng điện từ (sừ dụng chữ ký số hoặc Tài khồàn ĐKKD) theo quy trình trên Cổng Thông tin quốc gia về đăng ký doanh nghiệp
+### TRÌNH TỰ THỰC HIỆN
+
+![NỘP HỒ SƠ ĐANG KÝ CHI NHÁNH, VĂN PHÒNG ĐẠI DIỆN](/assets/images/dangkydoanhnghiep-vanphongdaidien.JPG)
+
+{% capture notice-2 %}
+ LƯU Ý
+
+* Trường hợp doanh nghiệp lập chi nhánh/văn phòng đại diện ở nước ngoài thì thực hiện theo quy định của pháp luật nước đó.
+* Trong thời hạn 30 ngày làm việc, kể từ ngày chính thức mở chi nhánh/văn phòng đại diện ở nước ngoài, doanh nghiệp phải gửi Thông báo về việc lập chi nhánh/văn phòng đại diện ở nước ngoài đến Phòng ĐKKD nơi doanh nghiệp đã đăng ký ( [Phụ lục II-12](https://bit.ly/Phụ-lục-II-12) , Thông tư số 20/2015/TT-BKHĐT). Kèm theo Thông báo phải có bản sao hợp lệ Giấy chứng nhận đăng ký hoạt động chi nhánh/văn phòng đại diện hoặc giấy tờ tương đương để bổ sung thông tin về chi nhánh/văn phòng đại diện của doanh nghiệp trong Cơ sở dữ liệu quốc gia về ĐKDN.
+{% endcapture %}
+
+<div class="notice">
+  {{ notice-2 | markdownify }}
+</div>
+
+### LỆ PHÍ
+Lệ phí đăng ký hoạt động chi nhánh/văn phòng đại diện, địa điểm kinh doanh: 100.000đ 
+
+## CÁC NGHĨA VỤ CỦA DOANH NGHIỆP
+
+Để đảm bảo tuân thủ các quy định của pháp Luật và trách nhiệm xã hội của Doanh nghiệp trong suốt vòng đời hoạt động, doanh nghiệp cần lưu ý thực hiện đầy đủ các nghĩa vụ sau:
+1.	Đáp ứng đủ điều kiện kinh doanh khi kinh doanh ngành, nghề đầu tư kinh doanh có điều kiện theo quy định của Luật đầu tư và bảo đảm duy trì đủ điều kiện đầu tư kinh doanh đó trong suốt quá trình hoạt động kinh doanh.
+2.	Tổ chức công tác kế toán, lập và nộp báo cáo tài chính trung thực, chính xác, đúng thời hạn theo quy định của pháp luật về kế toán, thống kê.
+3.	Kê khai thuế, nộp thuế và thực hiện các nghĩa vụ tài chính khác theo quy định của pháp luật.
+4.	Bảo đảm quyền, lợi ích hợp pháp, chính đáng của nguời lao động theo quy định của pháp luật về lao động; không được phân biệt đối xử và xúc phạm danh dự, nhân phẩm của người lao động trong doanh nghiệp; không được sử dụng lao động cưỡng bức và lao động trẻ em; hỗ trợ và tạo điều kiện thuận lợi cho người lao động tham gia đào tạo nâng cao trình độ, kỹ năng nghề; thực hiện chế độ bảo hiểm xã hội, bảo hiểm thất nghiệp, bảo hiểm y tế và bảo hiểm khác cho người lao động theo quy định của pháp luật.
+5.	Bảo đảm và chịu trách nhiệm về chất luợng hàng hóa, dịch vụ theo tiêu chuẩn do pháp luật quy định hoặc tiêu chuẩn đã đăng ký hoặc công bố.
+6.	Thực hiện đầy đủ, kịp thời các nghĩa vụ về đăng ký doanh nghiệp, đăng ký thay đổi nội dung đăng ký doanh nghiệp, công khai thông tin về thành lập và hoạt động, báo cáo và các nghĩa vụ khác theo quy định của Luật doanh nghiệp và quy định khác của pháp luật có liên quan.
+7.	Chịu trách nhiệm về tính trung thực, chính xác của thông tin kê khai trong hồ sơ đăng ký doanh nghiệp và các báo cáo; trường hợp phát hiện thông tin đã kê khai hoặc báo cáo thiếu chính xác, chưa đầy đủ thì phải kịp thời sửa đổi, bổ sung các thông tin đó.
+8.	Tuân thủ quy định của pháp luật về quốc phòng, an ninh, trật tự, an toàn xã hội, bình đẳng giới, bảo vệ tài nguyên, môi trường, bảo vệ di tích lịch sử - văn hóa và danh lam thắng cảnh.
+9.	Thực hiện nghĩa vụ về đạo đức kinh doanh để bảo đảm quyền, lợi ích hợp pháp của khách hàng và người tiêu dùng. 
+
+## MỘT SỐ VĂN BẢN QUY PHẠM PHÁP LUẬT ĐIỀU CHỈNH/LIÊN QUAN ĐẾN LĨNH VỰC ĐĂNG KÝ KINH DOANH?
+Để thành Lập và vận hành doanh nghiệp đúng quy định của pháp luật, người thành lập doanh nghiệp cần tìm hiếu một số văn bản quy phạm pháp luật chính điều chỉnh/liên quan đến lĩnh vực đăng ký kinh doanh sau:
+- Luật Doanh nghiệp 2014
+- Luật Đầu tư 2014
+- Nghị định số 96/2015/NĐ-CP ngày 19/10/2015 quy định chi tiết một số điều của Luật Doanh nghiệp
+- Nghị định số 118/2015/NĐ-CP ngày 12/11/2015 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Đầu tư
+- Nghị định số 78/2015/NĐ-CP ngày 14/9/2015 của Chính phủ về đăng ký doanh nghiệp
+- Thông tư số 20/2015/TT-BKHĐT ngày ũ 1 /12/2015 của Bộ Kế hoạch và Đầu tư hướng dẫn về đăng ký doanh nghiệp
+- Thông tư liên tịch số 01/2016/TTLT-BKHĐT-BTC ngày 23/03/2016 của Bộ Kế hoạch và Đầu tư và Bộ Tài chính về việc hướng dẫn việc trao đổi thông tin về doanh nghiệp giữa Hệ thống thông tin quốc gia về đăng ký doanh nghiệp và Hệ thống thông tin thuế. 
+
+
+
+Nguồn [Đăng ký kinh doanh](https://dangkykinhdoanh.gov.vn/)
 
