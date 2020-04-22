@@ -37,7 +37,7 @@ comments:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
-    appid                : "578749556019505"
+    appid                : "1986122244792801"
     num_posts            : 5 # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
@@ -73,7 +73,7 @@ twitter:
   username               : "vikilawfirm"
 facebook:
   username               : "luatdangkykinhdoanhDN"
-  app_id                 : "578749556019505"
+  app_id                 : "1986122244792801"
   publisher              :
 og_image                 : "/assets/images/VikiLogoVuong.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
