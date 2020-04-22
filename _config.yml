@@ -70,10 +70,10 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "vikilawfirm"
 facebook:
-  username               :
-  app_id                 :
+  username               : "luatdangkykinhdoanhDN"
+  app_id                 : "578749556019505"
   publisher              :
 og_image                 : "/assets/images/VikiLogoVuong.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
