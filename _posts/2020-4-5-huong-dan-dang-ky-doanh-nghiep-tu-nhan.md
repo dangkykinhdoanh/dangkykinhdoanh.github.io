@@ -210,7 +210,7 @@ Nộp hồ sơ ĐKDN và lệ phí qua mạng điện tử (sừ dụng chữ k�
 **TRÌNH TỰ THỰC HIỆN**
 1.	NẾU NỘP HỒ SƠ TRỰC TIẾP TẠI PHÒNG ĐKKD:
 
-![NỘP HỒ SƠ TRỰC TIẾP TẠI PHÒNG ĐKKD](../../images/dangkydoanhnghiep-nophstructiep.JPG)
+![NỘP HỒ SƠ TRỰC TIẾP TẠI PHÒNG ĐKKD](../images/dangkydoanhnghiep-nophstructiep.JPG)
 
 ```{r}
 library(knitr)
