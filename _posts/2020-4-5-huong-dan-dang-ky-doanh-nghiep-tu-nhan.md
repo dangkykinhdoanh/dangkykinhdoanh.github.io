@@ -18,20 +18,21 @@ toc_icon: "file-alt"
 
 ## LỜI NÓI ĐẦU
 
-“THÀNH LẬP DOANH NGHIỆP THEO QUY ĐỊNH CỦA PHÁP LUẬT LÀ QUYỀN CỦA CÁ NHÂN, Tổ CHỨC VÀ ĐUỌC NHÀ NUÓC BẢO HỘ”. 
-Trong khuôn khổ hoạt động của Dự án "Mở rộng các loại hình doanh nghiệp đăng ký trên Hệ thống Thông tin đăng ký doanh nghiệp guốc gia” đuợc tài trợ bởi Cục Hợp tác kinh tế Liên bang Thụy Sỹ (SECO) và Tổ chức phát triền công nghiệp Liên hợp guốc (UNIDO), trên co sở guy định của pháp luật hiện hành, Cục Quàn lý Đăng ký kinh doanh-Bộ Kế hoạch và Đằu tu đã tiến hành biên soạn Bộ tài liệu"Huớng dẫn đăng ký doanh nghiệp” nhằm mục đích hỗ trợ các tổ chức, cá nhân trong guá trình tìm hiếu về các loại hình doanh nghiệp và chuán bị hũ so đằy đủ, hợp lệ cho việc đăng ký thành lập mới doanh nghiệp.
+“THÀNH LẬP DOANH NGHIỆP THEO QUY ĐỊNH CỦA PHÁP LUẬT LÀ QUYỀN CỦA CÁ NHÂN, TỔ CHỨC VÀ ĐƯỢC NHÀ NƯỚC BẢO HỘ”. 
 
-Với ý nghĩa đó, Bộ tài liệu đuợc xây dựng thành Quyến, dành riêng cho từng loại hình doanh nghiệp, bao gồm: Quyến 1 - Công ty trách nhiệm hữu hạn một thành viên, Quyến 2 - Công ty trách nhiệm hữu hạn hai thành viên trở lên, Quyến 3 - Công ty Cũ phằn, Quyến 4 - Doanh nghiệp tu nhân. Đây là một tài liệu mang tính chất tham khàũ, không phài là văn bàn pháp lý. 
+Trong khuôn khổ hoạt động của Dự án "Mở rộng các loại hình doanh nghiệp đăng ký trên Hệ thống Thông tin đăng ký doanh nghiệp quốc gia” được tài trợ bởi Cục Hợp tác kinh tế Liên bang Thụy Sỹ (SECO) và Tổ chức phát triển công nghiệp Liên hợp quốc (UNIDO), trên cơ sở quy định của pháp luật hiện hành, Cục quản lý đăng ký kinh doanh-Bộ Kế hoạch và đầu tư đã tiến hành biên soạn Bộ tài liệu " Hướng dẫn đăng ký doanh nghiệp” nhằm mục đích hỗ trợ các tổ chức, cá nhân trong quá trình tìm hiếu về các loại hình doanh nghiệp và chuẩn bị hồ sơ đầy đủ, hợp lệ cho việc đăng ký thành lập mới doanh nghiệp.
 
-Chúng tôi hy vọng rằng Bộ tài liệu sẽ cung cấp thông tin hữu ích cho những doanh nhân tiềm năng truớc khi khởi đằu công việc kinh doanh hay các cá nhân, tổ chức khác có nhu cằu tham khàũ. Nhân đây, chúng tôi xin trân trọng càm on Cục Hợp tác kinh tế Liên bang Thụy Sỹ, Tổ chức phát triền công nghiệp Liên hợp guốc đã có những hỗ trợ hết sức thiết thực vì sự phát triền của lĩnh vực đăng ký kinh doanh ở Việt Nam nói riêng, khu vực kinh tế tu nhân của Việt Nam nói chung. 
+Với ý nghĩa đó, Bộ tài liệu được xây dựng thành Quyển, dành riêng cho từng loại hình doanh nghiệp, bao gồm: Quyển 1 - Công ty trách nhiệm hữu hạn một thành viên, Quyển 2 - Công ty trách nhiệm hữu hạn hai thành viên trở lên, Quyển 3 - Công ty Cổ phần, Quyển 4 - Doanh nghiệp tư nhân. Đây là một tài liệu mang tính chất tham khảo, không phải là văn bản pháp lý. 
 
-Cuối cùng, chúng tôi rất mong nhận đuợc sự góp ý chân thành của Quý độc già đế Bộ tài liệu này đuợc hoàn thiện hon trong những lằn xuất bàn tiếp theo.
+Chúng tôi hy vọng rằng Bộ tài liệu sẽ cung cấp thông tin hữu ích cho những doanh nhân tiềm năng trước khi khởi đầu công việc kinh doanh hay các cá nhân, tổ chức khác có nhu cầu tham khảo. Nhân đây, chúng tôi xin trân trọng cảm ơn Cục Hợp tác kinh tế Liên bang Thụy Sỹ, Tổ chức phát triển công nghiệp Liên hợp quốc đã có những hỗ trợ hết sức thiết thực vì sự phát triền của lĩnh vực đăng ký kinh doanh ở Việt Nam nói riêng, khu vực kinh tế tu nhân của Việt Nam nói chung. 
 
-##  Những thông tin cơ bản cằn tìm hiểu trước khi thành lập doanh nghiệp?
+Cuối cùng, chúng tôi rất mong nhận được sự góp ý chân thành của Quý độc giả đế Bộ tài liệu này được hoàn thiện hơn trong những lần xuất bản tiếp theo.
 
-Thành Lập doanh nghiệp là bước khởi đằu, tạo lập công cụ đế thực hiện một ý tưởng kinh doanh. Đế đảm bào doanh nghiệp của bạn sẽ là một công cụ kinh doanh hiệu quả và an toàn, trước tiên, bạn cằn lưu ý tìm hiểu những thông tin cơ bản sau:
+##  Những thông tin cơ bản cần tìm hiểu trước khi thành lập doanh nghiệp?
+
+Thành Lập doanh nghiệp là bước khởi đầu, tạo lập công cụ để thực hiện một ý tưởng kinh doanh. Đế đảm bào doanh nghiệp của bạn sẽ là một công cụ kinh doanh hiệu quả và an toàn, trước tiên, bạn cần lưu ý tìm hiểu những thông tin cơ bản sau:
 - Loại hình doanh nghiệp nào là phù hợp?
-- Lựa chọn mô hình tổ chức guàn lý nào?
+- Lựa chọn mô hình tổ chức quản lý nào?
 - Lựa chọn tên doanh nghiệp như thế nào?
 - Quy trình đăng ký thành lập doanh nghiệp ra sao?
 
@@ -40,9 +41,9 @@ Bộ tài liệu hướng dẫn về đăng ký doanh nghiệp sẽ giúp bạn 
 ## Khái niệm và một số lưu ý về DNTN?
 
 DNTN Là một Loại hình doanh nghiệp được thành Lập theo quy định của Luật Doanh nghiệp, do một cá nhân Làm chủ và tự chịu trách nhiệm bằng toàn bộ tài sản của mình về mọi hoạt động của doanh nghiệp.
-- DNTN không được phát hành bất kỳ Loại chứng khoán nào.
-- Mỗi cá nhân chi được quyền thành Lập một DNTN. Chủ DNTN không được đồng thời Là chủ hộ kinh doanh, thành viên công ty hợp danh.
-- DNTN không được quyền góp vốn thành Lập hoặc mua Cổ phần, bằng vốn góp trong công ty hợp danh, công tyTNHH hoặc công ty Cổ phần.
+- DNTN không được phát hành bất kỳ loại chứng khoán nào.
+- Mỗi cá nhân chi được quyền thành lập một DNTN. Chủ DNTN không được đồng thời là chủ hộ kinh doanh, thành viên công ty hợp danh.
+- DNTN không được quyền góp vốn thành lập hoặc mua Cổ phần, bằng vốn góp trong công ty hợp danh, công ty TNHH hoặc công ty Cổ phần.
 
 ## Tại sao lựa chọn loại hình doanh nghiệp Là DNTN?
 So với các loại hình doanh nghiệp khác, DNTN có ưu điểm như sau:
@@ -59,19 +60,19 @@ Chủ DNTN Là đại diện theo pháp Luật của doanh nghiệp.
 ## Một số lưu ý về vốn đầu tư của chủ doanh nghiệp
 Vốn đầu tư của chủ DNTN do chủ doanh nghiệp tự đăng ký. Chủ DNTN có nghĩa vụ đăng ký chính xác tổng số vốn đầu tư.
 
-Toàn bộ vốn và tài sàn kể cả vốn vay và tài sàn thuê được sử dụng vào hoạt động kinh doanh của doanh nghiệp phải được ghi chép đầy đủ vào Sổ kế toán và báo cáo tài chính của doanh nghiệp theo quy định của pháp Luật.
+Toàn bộ vốn và tài sản kể cả vốn vay và tài sản thuê được sử dụng vào hoạt động kinh doanh của doanh nghiệp phải được ghi chép đầy đủ vào Sổ kế toán và báo cáo tài chính của doanh nghiệp theo quy định của pháp Luật.
 
-Trong quá trình hoạt động, chủ DNTN có quyền tăng hoặc giảm vốn đằu tư của mình vào hoạt động kinh doanh của doanh nghiệp. Việc tăng hoặc giảm vốn đầu tư của chủ doanh nghiệp phải được ghi chép đầy đủ vào sổ kế toán. Trường hợp giảm vốn đằu tư xuống thấp hơn vốn đầu tư đã đăng ký thì chủ DNTN chỉ được giảm vốn sau khi đã đăng ký với Cơ quan ĐKKD
+Trong quá trình hoạt động, chủ DNTN có quyền tăng hoặc giảm vốn đầu tư của mình vào hoạt động kinh doanh của doanh nghiệp. Việc tăng hoặc giảm vốn đầu tư của chủ doanh nghiệp phải được ghi chép đầy đủ vào sổ kế toán. Trường hợp giảm vốn đầu tư xuống thấp hơn vốn đầu tư đã đăng ký thì chủ DNTN chỉ được giảm vốn sau khi đã đăng ký với Cơ quan ĐKKD
 
 ## Cho thuê doanh nghiệp
 
-Chủ DNTN có quyền cho thuê toàn bộ doanh nghiệp của mình nhưng phải thông báo bằng văn bản kèm theo bản sao hợp đồng cho thuê có công chứng đến Cơ quan ĐKKD, cơ quan thuế trong thời hạn 03 ngày làm việc, kể từ ngày hợp đồng cho thuê có hiệu lực thi hành. Trong thời giạn cho thuê, chủ DNTN vẫn phải chịu trách nhiệm trước pháp luật với tư cách là chủ sở hữu doanh nghiệp. Quyền và trách nhiệm của chủ sở hữu và người thuê đối với hoạt động kinh doanh của doanh nghiệp được quy định trong hợp đồng cho thuê.
+Chủ DNTN có quyền cho thuê toàn bộ doanh nghiệp của mình nhưng phải thông báo bằng văn bản kèm theo bản sao hợp đồng cho thuê có công chứng đến Cơ quan ĐKKD, cơ quan thuế trong thời hạn 03 ngày làm việc, kể từ ngày hợp đồng cho thuê có hiệu lực thi hành. Trong thời gian cho thuê, chủ DNTN vẫn phải chịu trách nhiệm trước pháp luật với tư cách là chủ sở hữu doanh nghiệp. Quyền và trách nhiệm của chủ sở hữu và người thuê đối với hoạt động kinh doanh của doanh nghiệp được quy định trong hợp đồng cho thuê.
 
 ## Bán doanh nghiệp
 
 Chủ DNTN có quyền bán doanh nghiệp của mình cho người khác.
 
-Sau khi bán doanh nghiệp, chủ DNTN vẫn phải chịu trách nhiệm về các khỏan nợ và nghĩa vụ tài sản khác của doanh nghiệp phát sinh trong thời gian trước ngày chuyển giao doanh nghiệp, trừ trường hợp người mua, người bán và chủ nợ của doanh nghiệp có thỏa thuận khác.
+Sau khi bán doanh nghiệp, chủ DNTN vẫn phải chịu trách nhiệm về các khoản nợ và nghĩa vụ tài sản khác của doanh nghiệp phát sinh trong thời gian trước ngày chuyển giao doanh nghiệp, trừ trường hợp người mua, người bán và chủ nợ của doanh nghiệp có thỏa thuận khác.
 
 Người bán, người mua doanh nghiệp phải tuân thủ các quy định của pháp luật về lao động.
 
@@ -79,10 +80,10 @@ Người mua doanh nghiệp phải đăng ký thay đổi chủ DNTN theo quy đ
 
 ## Chuyển đổi DNTT thành công ty TNHH
 
-- DNTN có thế chuyển đổi thành Công ty TNHH theo quyết định của chủ DNTN nếu đủ các điều kiện sau đây:
-- Có đủ các điều kiện theo quy định tại khỏan 1 Điều 28 của Luật Doanh nghiệp;
-- Chủ DNTN phải là chủ sở hữu công ty (đối với trường hợp chuyển đổi thành công ty TNHH một thành viên do cá nhân Làm chủ sở hữu) hoặc thành viên (đối với trường hợp chuyến đổi thành công ty TNHH hai thành viên trở Lên);
-- Chủ DNTN cam kết bằng văn bản chịu trách nhiệm cá nhân bằng toàn bộ tài sản của mình đối với tất cả các khỏan nợ chưa thanh toán của DNTN và cam kết thanh toán đủ số nợ khi đến hạn;
+- DNTN có thể chuyển đổi thành Công ty TNHH theo quyết định của chủ DNTN nếu đủ các điều kiện sau đây:
+- Có đủ các điều kiện theo quy định tại khoản 1 Điều 28 của Luật Doanh nghiệp;
+- Chủ DNTN phải là chủ sở hữu công ty (đối với trường hợp chuyển đổi thành công ty TNHH một thành viên do cá nhân Làm chủ sở hữu) hoặc thành viên (đối với trường hợp chuyển đổi thành công ty TNHH hai thành viên trở lên);
+- Chủ DNTN cam kết bằng văn bản chịu trách nhiệm cá nhân bằng toàn bộ tài sản của mình đối với tất cả các khoản nợ chưa thanh toán của DNTN và cam kết thanh toán đủ số nợ khi đến hạn;
 - Chủ DNTN có thỏa thuận bằng văn bản với các bên của hợp đồng chưa thanh lý về việc công ty TNHH được chuyển đổi tiếp nhận và thực hiện các hợp đồng đó;
 - Chủ DNTN cam kết bằng văn bản hoặc có thỏa thuận bằng văn bản với các thành viên góp vốn khác về việc tiếp nhận và sử dụng lao động hiện có của DNTN.
 
@@ -92,10 +93,10 @@ Người mua doanh nghiệp phải đăng ký thay đổi chủ DNTN theo quy đ
 |                |DOANH NGHIỆP TƯ NHÂN                      |CÔNG TY TNHH MỘT THÀNH VIÊN                       |
 |----------------|-------------------------------|-----------------------------|
 |Điểm khác biệt|Không có tư cách pháp nhân           |Có tư cách pháp nhân|
-|         |Tài sản của chủ sở hữu không tách biệt với tài sàn của doanh nghiệp |Tài sản của chủ sở hữu tách biệt với tài sản của công ty |
-|        |Chủ doanh nghiệp tư nhân tự chịu trách nhiệm bằng toàn bộ tài sản của mình về mọi hoạt động của doanh nghiệp|Chủ sở hữu chịu trách nhiệm về các khỏan nợ và nghĩa vụ tài sản khác của doanh nghiệp trong _phạm vi số vốn cam kết góp vào_ doanh nghiệp
-| 	|Chủ sở hữu doanh nghiệp tư nhân đồng thời là nguời đại diện theo pháp luật của doanh nghiệp|Chủ tịch Hội đồng thành viên/Chủ tịch công ty là nguời đại diện theo pháp luật của công ty _(trường hợp Điều lệ không quy định khác)_	 
-|  	| Chủ doanh nghiệp tư nhân có guyền bán, cho thuê toàn bộ doanh nghiệp của mình|Chủ sở hữu công ty có guyền chuyển nhuợng một phần hoặc toàn bộ vốn điều lệ của công ty cho tổ chức, cá nhân khác|
+|         |Tài sản của chủ sở hữu không tách biệt với tài sản của doanh nghiệp |Tài sản của chủ sở hữu tách biệt với tài sản của công ty |
+|        |Chủ doanh nghiệp tư nhân tự chịu trách nhiệm bằng toàn bộ tài sản của mình về mọi hoạt động của doanh nghiệp|Chủ sở hữu chịu trách nhiệm về các khoản nợ và nghĩa vụ tài sản khác của doanh nghiệp trong _phạm vi số vốn cam kết góp vào_ doanh nghiệp
+| 	|Chủ sở hữu doanh nghiệp tư nhân đồng thời là người đại diện theo pháp luật của doanh nghiệp|Chủ tịch Hội đồng thành viên/Chủ tịch công ty là người đại diện theo pháp luật của công ty _(trường hợp Điều lệ không quy định khác)_	 
+|  	| Chủ doanh nghiệp tư nhân có quyền bán, cho thuê toàn bộ doanh nghiệp của mình|Chủ sở hữu công ty có quyền chuyển nhượng một phần hoặc toàn bộ vốn điều lệ của công ty cho tổ chức, cá nhân khác|
 
 
 ##  Đặt tên doanh nghiệp như thế nào cho đúng với quy định của pháp luật?
@@ -120,15 +121,15 @@ Tên riêng của doanh nghiệp có thể giữ nguyên hoặc dịch theo ngh�
 
 `<Ví dụ: DNTN Đại Thắng” có thế sử dụng tên tiếng Anh là: "Dai Thang Private Enterprise”.`
 
-Tên bằng tiếng nuớc ngoài của doanh nghiệp đuợc in hoặc viết với khổ chữ nhỏ hơn tên tiếng Việt của doanh nghiệp tại trụ sở chính, chi nhánh, văn phòng đại diện, địa điểm kinh doanh của doanh nghiệp hoặc trên các giấy tờ giao dịch, hồ sơ tài liệu và ấn phẩm do doanh nghiệp phát hành
+Tên bằng tiếng nước ngoài của doanh nghiệp được in hoặc viết với khổ chữ nhỏ hơn tên tiếng Việt của doanh nghiệp tại trụ sở chính, chi nhánh, văn phòng đại diện, địa điểm kinh doanh của doanh nghiệp hoặc trên các giấy tờ giao dịch, hồ sơ tài liệu và ấn phẩm do doanh nghiệp phát hành
 
-Tên viết tắt của doanh nghiệp đuợc viết tắt từ tên tiếng Việt hoặc tên viết bằng tiếng nuớc ngoài.
+Tên viết tắt của doanh nghiệp được viết tắt từ tên tiếng Việt hoặc tên viết bằng tiếng nuớc ngoài.
 
 **CÁC YÊU CẦU LIÊN QUAN ĐẾN TÊN DOANH NGHIỆP:**
 
-Tên doanh nghiệp phải đuợc gắn tại trụ sở chính, chi nhánh, văn phòng đại diện, địa điểm kinh doanh của doanh nghiệp.
+Tên doanh nghiệp phải được gắn tại trụ sở chính, chi nhánh, văn phòng đại diện, địa điểm kinh doanh của doanh nghiệp.
 
-Tên doanh nghiệp phài đuợc in hoặc viết trên các giấy tờ giao dịch, hồ sơ tài liệu và ấn phẩm do doanh nghiệp phát hành.
+Tên doanh nghiệp phải được in hoặc viết trên các giấy tờ giao dịch, hồ sơ tài liệu và ấn phẩm do doanh nghiệp phát hành.
 
 **NHỮNG ĐIỀU CẤM TRONG ĐẶT TÊN DOANH NGHIỆP:**
 
@@ -163,13 +164,13 @@ Các trường hợp sau đây được coi là tên gây nhầm lẫn với tê
 
 ## Những điều cần biết về quy định đối với ngành, nghề kinh doanh của doanh nghiệp?
 
-**NHỮNG ĐIÊU CẦN LUUÝ VÊ NGÀNH, NGHÊ KINH DOANH:**
+**NHỮNG ĐIÊU CẦN LƯU Ý VÊ NGÀNH, NGHỀ KINH DOANH:**
 
 Doanh nghiệp được quyền kinh doanh tất cả những ngành, nghề mà pháp luật không cấm.
 
 Doanh nghiệp có nghĩa vụ đáp ứng đủ điều kiện kinh doanh khi kinh doanh ngành, nghề đầu tư kinh doanh có điều kiện theo quy định của luật Đầu tư và bảo đảm duy trì đủ điều kiện đầu tư kinh doanh đó trong suốt quá trình hoạt động kinh doanh.
 
-Doanh nghiệp đuợc quyền kinh doanh ngành, nghề đầu tư kinh doanh có điều kiện kể từ khi có đủ điều kiện theo quy định của pháp luật và phải bảo đảm đáp ứng các điều kiện đó trong suốt quá trình hoạt động.
+Doanh nghiệp được quyền kinh doanh ngành, nghề đầu tư kinh doanh có điều kiện kể từ khi có đủ điều kiện theo quy định của pháp luật và phải bảo đảm đáp ứng các điều kiện đó trong suốt quá trình hoạt động.
 
 Các hành vi bị nghiêm cấm: kinh doanh các ngành, nghề cấm đầu tư kinh doanh; kinh doanh ngành, nghề đầu tư kinh doanh có điều kiện khi chưa đủ các điều kiện kinh doanh theo quy định của luật đầu tư hoặc không bảo đảm duy trì đủ điều kiện kinh doanh trong quá trình hoạt động.
 
@@ -185,7 +186,7 @@ Nếu doanh nghiệp có nhu cầu đăng ký ngành, nghề kinh doanh chi ti�
 
 > **NÊN** Lựa chọn đăng ký những ngành, nghề mà doanh nghiệp sẽ hoạt động
 
-> **KHÔNG NÊN** Đăng ký quá nhiều ngành, nghề kinh doanh So với thực tế hoạt động sẽ dễ gây hiểu nhầm và làm giảm mức độ tin tuởng của đối tác, khách hàng về thế mạnh, lĩnh vực kinh doanh chính của công ty bạn.
+> **KHÔNG NÊN** Đăng ký quá nhiều ngành, nghề kinh doanh So với thực tế hoạt động sẽ dễ gây hiểu nhầm và làm giảm mức độ tin tưởng của đối tác, khách hàng về thế mạnh, lĩnh vực kinh doanh chính của công ty bạn.
 	
 ##  Hồ sơ, trình tự, thủ tục đăng ký thành Lập DNTN?
 
@@ -205,7 +206,7 @@ Người thành lập doanh nghiệp có thể lựa chọn một trong hai phư
 
 Nộp hồ sơ ĐKDN và lệ phí trực tiếp tại Phòng ĐKKD
 
-Nộp hồ sơ ĐKDN và lệ phí qua mạng điện tử (sừ dụng chữ ký số hoặc Tài khỏan ĐKKD) theo quy trình trên Cổng Thông tin quốc gia về đăng ký doanh nghiệp.
+Nộp hồ sơ ĐKDN và lệ phí qua mạng điện tử (sử dụng chữ ký số hoặc Tài khỏan ĐKKD) theo quy trình trên Cổng Thông tin quốc gia về đăng ký doanh nghiệp.
 
 **TRÌNH TỰ THỰC HIỆN**
 1.	NẾU NỘP HỒ SƠ TRỰC TIẾP TẠI PHÒNG ĐKKD:
